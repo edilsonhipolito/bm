@@ -6,10 +6,12 @@
     "rito": "REAA",
     "cidade": "Chapecó",
     "estado": "SC",
-    "endereco": "Rua 14 de Agosto, 311-D, Maria Goretti",
+    "endereco": "Rua 14 de Agosto, 311-D, , Maria Goretti, , 89801-414",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1047894,-52.6014837&z=15"
   },
   {
     "id": "3925",
@@ -18,22 +20,26 @@
     "rito": "REAA",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Dona Francisca, Saguaçu",
+    "endereco": "Rua Dona Francisca, , Saguaçu, , 89221-009",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-15.7968235,-47.8904581&z=15"
   },
   {
     "id": "3014",
     "nome": "A LUZ VEM DO ORIENTE",
     "numero": "3014",
     "rito": "Adonhiramita",
-    "cidade": "Porto Belo",
+    "cidade": "Itapema",
     "estado": "SC",
-    "endereco": "Rua 294, 745, Castelo Branco",
+    "endereco": "Rua 294, 745, , Castelo Branco, , 88220-000",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1400232,-48.6007616&z=15"
   },
   {
     "id": "4449",
@@ -42,10 +48,40 @@
     "rito": "Moderno",
     "cidade": "Blumenau",
     "estado": "SC",
-    "endereco": "Rua Buenos Aires, 183, Ponta Aguda",
+    "endereco": "Rua Buenos Aires, 183, , Ponta Aguda, , 89051-050",
     "potencia": "GOB",
-    "diaSessao": "1ª,",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1,",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4839",
+    "nome": "ACADÊMICA E UNIVERSITÁRIA LOUIS GORDON LOWER",
+    "numero": "4839",
+    "rito": "Brasileiro",
+    "cidade": "Joinville",
+    "estado": "SC",
+    "endereco": "Rua Dona Francisca, 3801, , Saguaçu, , 89221-009",
+    "potencia": "GOB",
+    "diaSessao": "1°",
+    "horario": "17:30",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "3176",
+    "nome": "ACADÊMICA PROFESSOR BRUNO CARLINI",
+    "numero": "3176",
+    "rito": "Moderno",
+    "cidade": "Itajaí",
+    "estado": "SC",
+    "endereco": "Rua José Siqueira,, , Ressacada, , 88307-311",
+    "potencia": "GOB",
+    "diaSessao": "1°,2°",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.0052824,-48.6480692&z=15"
   },
   {
     "id": "2768",
@@ -54,10 +90,12 @@
     "rito": "Adonhiramita",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Vidal Ramos, Centro",
+    "endereco": "Rua Vidal Ramos, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "Segundas-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5945299,-48.5519522&z=15"
   },
   {
     "id": "3978",
@@ -66,10 +104,12 @@
     "rito": "REAA",
     "cidade": "Balneário Camboriú",
     "estado": "SC",
-    "endereco": "Rua 2480, 431, Centro",
+    "endereco": "Rua 2480, 431, , Centro, , 88303-407",
     "potencia": "GOB",
-    "diaSessao": "Quartas-feira",
-    "frequencia": "Semanal"
+    "diaSessao": "Todas",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0052824,-48.6480692&z=15"
   },
   {
     "id": "3506",
@@ -78,10 +118,12 @@
     "rito": "REAA",
     "cidade": "Imbituba",
     "estado": "SC",
-    "endereco": "Rua Jorge Lacerda, s/n, Centro",
+    "endereco": "Rua Jorge Lacerda, s/n, , Centro, , 88780-000",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-28.2360082,-48.6677814&z=15"
   },
   {
     "id": "4044",
@@ -90,10 +132,12 @@
     "rito": "Schröder",
     "cidade": "Itapoá",
     "estado": "SC",
-    "endereco": "Rua Cambacica, São José",
+    "endereco": "Rua Cambacica, , São José, , 89361848",
     "potencia": "GOB",
-    "diaSessao": "Uinta-feira",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.0673284,-48.624496&z=15"
   },
   {
     "id": "2014",
@@ -102,22 +146,26 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis,, Estreito",
+    "endereco": "Rua Machado de Assis,, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5931851,-48.5732556&z=15"
   },
   {
     "id": "3596",
     "nome": "ACÁCIA DO ORIENTE",
     "numero": "3596",
-    "rito": "Segundas-Feiras - 20h",
-    "cidade": "Joa",
+    "rito": "Adonhiramita",
+    "cidade": "Joaçaba",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Rua Arvino de Oliveira",
+    "endereco": "Rua Arvino de Oliveira,, , Vila Pedrini, , 89600-000",
     "potencia": "GOB",
-    "diaSessao": "Çaba",
-    "frequencia": "Semanal"
+    "diaSessao": "Segundas",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1727043,-51.5047582&z=15"
   },
   {
     "id": "1346",
@@ -126,10 +174,12 @@
     "rito": "REAA",
     "cidade": "Videira",
     "estado": "SC",
-    "endereco": "Rodovia SC 135/Km 121, Morada do Sol",
+    "endereco": "Rodovia SC 135/Km 121, , Morada do Sol, , 89560388",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0065615,-51.1197424&z=15"
   },
   {
     "id": "4917",
@@ -138,22 +188,40 @@
     "rito": "Adonhiramita",
     "cidade": "Blumenau",
     "estado": "SC",
-    "endereco": "Rua Antônio Veiga, 439, Victor Konder",
+    "endereco": "Rua Antônio Veiga, 439, , Victor Konder, , 89012-500",
     "potencia": "GOB",
-    "diaSessao": "Terças-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1°",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "1937",
+    "nome": "ACÁCIA JOINVILENSE",
+    "numero": "1937",
+    "rito": "REAA",
+    "cidade": "Joinville",
+    "estado": "SC",
+    "endereco": "Servidão Acácia Joinvilense, 133, , Itaum, , 89210-057",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3319006,-48.8318275&z=15"
   },
   {
     "id": "4870",
     "nome": "AGNUS DEI",
     "numero": "4870",
-    "rito": "1° e 3° Quartas-Feiras ás 20:00 horas",
-    "cidade": "S",
+    "rito": "Adonhiramita",
+    "cidade": "São José",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, RUA CELIO VEIGA",
+    "endereco": "RUA CELIO VEIGA, , JARDIM CIDADE DE FLORIANOPOLIS, , 88111-320",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "1°",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5666689,-48.6242275&z=15"
   },
   {
     "id": "4129",
@@ -162,10 +230,12 @@
     "rito": "REAA",
     "cidade": "Itapema",
     "estado": "SC",
-    "endereco": "Rua 406, 1370, Morretes",
+    "endereco": "Rua 406, 1370, , Morretes, , 88220-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.090948,-48.6117777&z=15"
   },
   {
     "id": "4379",
@@ -174,10 +244,12 @@
     "rito": "York",
     "cidade": "Blumenau",
     "estado": "SC",
-    "endereco": "Rua Buenos Aires, 183, Ponta Aguda",
+    "endereco": "Rua Buenos Aires, 183, , Ponta Aguda, , 89051-050",
     "potencia": "GOB",
-    "diaSessao": "Quarta-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "Não informado",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-26.9166866,-49.096111&z=15"
   },
   {
     "id": "4285",
@@ -186,46 +258,96 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, Estreito",
+    "endereco": "Rua Machado de Assis, , Estreito, , 88075-000",
     "potencia": "GOB",
-    "diaSessao": "Quartas-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1°",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5970094,-48.5473988&z=15"
   },
   {
     "id": "4887",
     "nome": "AMIGOS DA LIBERDADE",
     "numero": "4887",
-    "rito": "RODOVIA SC 405",
+    "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "CAMPECHE, 88065-000",
+    "endereco": "RODOVIA SC 405, , CAMPECHE, , 88065-000",
     "potencia": "GOB",
-    "diaSessao": "Ito",
-    "frequencia": "Semanal"
+    "diaSessao": "",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6833306,-48.5118229&z=15"
   },
   {
     "id": "4558",
     "nome": "ANTÔNIO GOUVEIA MEDEIROS",
     "numero": "4558",
-    "rito": "1° e 3° Terça feira - 20h",
-    "cidade": "Bra",
+    "rito": "Schröder",
+    "cidade": "Braço do Norte",
     "estado": "SC",
-    "endereco": "Rito Schröder, Rua João Bianchini, s/n",
+    "endereco": "Rua João Bianchini, s/n, , Bela Vista, , 88750-000",
     "potencia": "GOB",
-    "diaSessao": "Ço",
-    "frequencia": "Semanal"
+    "diaSessao": "1°",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4686",
+    "nome": "ARCA DA ALIANÇA",
+    "numero": "4686",
+    "rito": "Brasileiro",
+    "cidade": "Itapema",
+    "estado": "SC",
+    "endereco": "Rua 294, 745, , Meia Praia, , 88220-000",
+    "potencia": "GOB",
+    "diaSessao": "1°",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "3698",
+    "nome": "ARQUITETOS DA PAZ",
+    "numero": "3698",
+    "rito": "Brasileiro",
+    "cidade": "Blumenau",
+    "estado": "SC",
+    "endereco": "Rua Buenos Aires,, , Ponta Aguda, , 89051-050",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9070717,-49.0676277&z=15"
   },
   {
     "id": "4731",
     "nome": "ARQUITETOS DE SIÃO",
     "numero": "4731",
-    "rito": "1° e 3° - Segundas-Feiras",
-    "cidade": "S",
+    "rito": "York",
+    "cidade": "São Bento do Sul",
     "estado": "SC",
-    "endereco": "Rito de York, Avenida dos Imigrantes, 1750",
+    "endereco": "Avenida dos Imigrantes, 1750, , BRASÍLIA, , 89280-970",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "1°",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "2996",
+    "nome": "ARQUITETOS DO VALE",
+    "numero": "2996",
+    "rito": "Brasileiro",
+    "cidade": "Blumenau",
+    "estado": "SC",
+    "endereco": "Rua Londrina, 199, , Velha, , 89036-617",
+    "potencia": "GOB",
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9166755,-49.095839&z=15"
   },
   {
     "id": "3116",
@@ -234,10 +356,12 @@
     "rito": "Adonhiramita",
     "cidade": "Itajaí",
     "estado": "SC",
-    "endereco": "Rua São Gonçalo, 100, Dom Bosco",
+    "endereco": "Rua São Gonçalo, 100, , Dom Bosco, , 88307-180",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9047337,-48.6645881&z=15"
   },
   {
     "id": "4245",
@@ -246,10 +370,12 @@
     "rito": "Moderno",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5893468,-48.5780215&z=15"
   },
   {
     "id": "4043",
@@ -258,10 +384,12 @@
     "rito": "York",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Servidão Acácia Joinvilense, 133, Itaum",
+    "endereco": "Servidão Acácia Joinvilense, 133, , Itaum, , 89210-057",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3064386,-48.8410284&z=15"
   },
   {
     "id": "4574",
@@ -270,10 +398,12 @@
     "rito": "Moderno",
     "cidade": "Itajaí",
     "estado": "SC",
-    "endereco": "Rua XV de Novembro, 396, Centro",
+    "endereco": "Rua XV de Novembro, 396, , Centro, , 88301-420",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-25.4305865,-49.2700923&z=15"
   },
   {
     "id": "3826",
@@ -282,10 +412,12 @@
     "rito": "REAA",
     "cidade": "Tangará",
     "estado": "SC",
-    "endereco": "Rua Padre Fridmundo, 100, Centro",
+    "endereco": "Rua Padre Fridmundo, 100, , Centro, , 89642-000",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1036207,-51.2492954&z=15"
   },
   {
     "id": "2998",
@@ -294,10 +426,12 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bernadino Vaz,, Estreito",
+    "endereco": "Rua Bernadino Vaz,, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5895862,-48.5783378&z=15"
   },
   {
     "id": "1310",
@@ -306,34 +440,54 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Presidente Gama Rosa,, Trindade",
+    "endereco": "Rua Presidente Gama Rosa,, , Trindade, , 88036-260",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5876028,-48.5235296&z=15"
   },
   {
     "id": "4936",
     "nome": "CAVALEIROS DA ALIANÇA",
     "numero": "4936",
-    "rito": "Rua Paulo Alves do Nascimento",
+    "rito": "York",
     "cidade": "Lontras",
     "estado": "SC",
-    "endereco": "Pioneiros, 89182-000",
+    "endereco": "Rua Paulo Alves do Nascimento, , Pioneiros, , 89182-000",
     "potencia": "GOB",
-    "diaSessao": "Ito",
-    "frequencia": "Semanal"
+    "diaSessao": "",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "3657",
+    "nome": "CAVALEIROS DA LUZ",
+    "numero": "3657",
+    "rito": "York",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6208882,-48.5473429&z=15"
   },
   {
     "id": "3948",
     "nome": "CAVALEIROS DA PAZ",
     "numero": "3948",
-    "rito": "1ª e 3ª Terça Feira - 20h",
-    "cidade": "S",
+    "rito": "Adonhiramita",
+    "cidade": "São José",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Rua Gabriel Marciano",
+    "endereco": "Rua Gabriel Marciano,, , Centro, , 88103-215",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.6208383,-48.6325189&z=15"
   },
   {
     "id": "4541",
@@ -342,34 +496,40 @@
     "rito": "Moderno",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Marari, 47, Atiradores",
+    "endereco": "Rua Marari, 47, , Atiradores, , 89203-080",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-26.3085834,-48.861126&z=15"
   },
   {
     "id": "4322",
     "nome": "CAVALEIROS DE AÇO NORTE",
     "numero": "4322",
-    "rito": "3ª Sábado - 10h",
-    "cidade": "S",
+    "rito": "REAA",
+    "cidade": "São Francisco do Sul",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Benjamim Constant, 196",
+    "endereco": "Rua Benjamim Constant, 196, , Centro, , 89240-000",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "3",
+    "horario": "10:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-26.2462145,-48.6400596&z=15"
   },
   {
     "id": "3878",
     "nome": "CAVALEIROS DO CONTESTADO",
     "numero": "3878",
-    "rito": "Terça Feira - 20h",
-    "cidade": "Tr",
+    "rito": "REAA",
+    "cidade": "Canoinhas",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, BR 280, KM 219",
+    "endereco": "BR 280, KM 219, , Distrito de Barra Grande, , 89490-000",
     "potencia": "GOB",
-    "diaSessao": "Ês",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.1888783,-50.3690518&z=15"
   },
   {
     "id": "3968",
@@ -378,10 +538,12 @@
     "rito": "REAA",
     "cidade": "Fraiburgo",
     "estado": "SC",
-    "endereco": "Rua Nadarci Brandt, 91, Centro",
+    "endereco": "Rua Nadarci Brandt, 91, , Centro, , 89580-000",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0236392,-50.9256866&z=15"
   },
   {
     "id": "4349",
@@ -390,34 +552,40 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bernadino Vaz, 177, Estreito",
+    "endereco": "Rua Bernadino Vaz, 177, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "3ª",
-    "frequencia": "Semanal"
+    "diaSessao": "3",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5931655,-48.5729331&z=15"
   },
   {
     "id": "2779",
     "nome": "CIDADE AZUL",
     "numero": "2779",
-    "rito": "Terça Feira - 20h",
-    "cidade": "Tubar",
+    "rito": "REAA",
+    "cidade": "Tubarão",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Avenida Marcolino Martins Cabral, 5482",
+    "endereco": "Avenida Marcolino Martins Cabral, 5482, , Passagem, , 88704500",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.4751176,-48.9940381&z=15"
   },
   {
     "id": "4177",
     "nome": "CIÊNCIA E MISTICISMO",
     "numero": "4177",
     "rito": "Adonhiramita",
-    "cidade": "Florianópolis",
+    "cidade": "São José",
     "estado": "SC",
-    "endereco": "Rua Gabriel Marciano,, Centro",
+    "endereco": "Rua Gabriel Marciano,, , Centro, , 88103-216",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5612578,-48.6228307&z=15"
   },
   {
     "id": "3461",
@@ -426,22 +594,26 @@
     "rito": "Adonhiramita",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Monsenhor Gercino,, Paranaguamirim",
+    "endereco": "Rua Monsenhor Gercino,, , Paranaguamirim, , 89210-155",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3408358,-48.8234991&z=15"
   },
   {
     "id": "4081",
     "nome": "COLUNAS DE JARAGUÁ",
     "numero": "4081",
     "rito": "Adonhiramita",
-    "cidade": "Jaraguá Do Sul",
+    "cidade": "Jaraguá do Sul",
     "estado": "SC",
-    "endereco": "Rua Prefeito José Bauer, Rau",
+    "endereco": "Rua Prefeito José Bauer, , Rau, , 89254-100",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.4564625,-49.1130618&z=15"
   },
   {
     "id": "4816",
@@ -450,22 +622,40 @@
     "rito": "York",
     "cidade": "Chapecó",
     "estado": "SC",
-    "endereco": "Rua Heitor Villas Boas, Esplanada",
+    "endereco": "Rua Heitor Villas Boas, , Esplanada, , 89812-620",
     "potencia": "GOB",
-    "diaSessao": "Extas",
-    "frequencia": "Semanal"
+    "diaSessao": "Sextas",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "3055",
+    "nome": "COMANDANTE LARA RIBAS",
+    "numero": "3055",
+    "rito": "REAA",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "endereco": "Rua Vidal Ramos,, , Centro, , 88010-320",
+    "potencia": "GOB",
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5945298,-48.5520465&z=15"
   },
   {
     "id": "3070",
     "nome": "COMPASSO DAS ÁGUAS",
     "numero": "3070",
-    "rito": "Quinta Feira - 20h",
-    "cidade": "S",
+    "rito": "Adonhiramita",
+    "cidade": "São Carlos",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Avenida Santa Catarina",
+    "endereco": "Avenida Santa Catarina, , Centro, , 89885-000",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0814939,-53.0075307&z=15"
   },
   {
     "id": "3595",
@@ -474,10 +664,12 @@
     "rito": "REAA",
     "cidade": "Itapema",
     "estado": "SC",
-    "endereco": "Rua 406,, Morretes",
+    "endereco": "Rua 406,, , Morretes, , 88220-000",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0909506,-48.6110434&z=15"
   },
   {
     "id": "3631",
@@ -486,10 +678,12 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, 200, Abraão",
+    "endereco": "Rua Bias Peixoto, 200, , Abraão, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6073692,-48.5900934&z=15"
   },
   {
     "id": "3691",
@@ -498,10 +692,12 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Presidente Gama Rosa,, Trindade",
+    "endereco": "Rua Presidente Gama Rosa,, , Trindade, , 88036-260",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5883287,-48.4942133&z=15"
   },
   {
     "id": "3535",
@@ -510,10 +706,12 @@
     "rito": "Schröder",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Estrada Dário Manoel Cardoso, 2222, Ingleses do Rio Vermelho",
+    "endereco": "Estrada Dário Manoel Cardoso, 2222, , Ingleses do Rio Vermelho, , 88058-400",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.4328044,-48.4651927&z=15"
   },
   {
     "id": "3273",
@@ -522,10 +720,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Desembargador Vitor Lima, Carvoeira",
+    "endereco": "Desembargador Vitor Lima, , Carvoeira, , 88040-001",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.598340714713892,-48.524824578273616&z=15"
   },
   {
     "id": "4617",
@@ -534,10 +734,12 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito",
     "potencia": "GOB",
-    "diaSessao": "Essões",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "Sessões",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5935293,-48.5729576&z=15"
   },
   {
     "id": "4339",
@@ -546,10 +748,12 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Segundas-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5935293,-48.5729576&z=15"
   },
   {
     "id": "4438",
@@ -558,22 +762,26 @@
     "rito": "York",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Dona Francisca, Saguaçu",
+    "endereco": "Rua Dona Francisca, , Saguaçu, , 89221-009",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.2816978,-48.8509991&z=15"
   },
   {
     "id": "3130",
     "nome": "ENERGIA E LUZ",
     "numero": "3130",
-    "rito": "Quinta Feira - 20h",
-    "cidade": "Tubar",
+    "rito": "REAA",
+    "cidade": "Tubarão",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Avenida Marcolino Martins Cabral, 5482",
+    "endereco": "Avenida Marcolino Martins Cabral, 5482, , Passagem, , 88705-006",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.4753502,-48.9945615&z=15"
   },
   {
     "id": "4632",
@@ -582,34 +790,54 @@
     "rito": "Adonhiramita",
     "cidade": "Maravilha",
     "estado": "SC",
-    "endereco": "Avenida Santa Catarina, 1088, São Carlos",
+    "endereco": "Avenida Santa Catarina, 1088, , São Carlos, , 89885-000",
     "potencia": "GOB",
-    "diaSessao": "Uinta-feira",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "2868",
+    "nome": "ESTRELA DA HARMONIA",
+    "numero": "2868",
+    "rito": "REAA",
+    "cidade": "Criciúma",
+    "estado": "SC",
+    "endereco": "Estrada Geral Linha Cabral, s/n, , Linha Cabral, , 88801-970",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.6358902,-49.3169988&z=15"
   },
   {
     "id": "3334",
     "nome": "ESTRELA DE HERVAL",
     "numero": "3334",
-    "rito": "Quinta Feira - 20h",
-    "cidade": "Joa",
+    "rito": "REAA",
+    "cidade": "Joaçaba",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Arvino de Oliveira",
+    "endereco": "Rua Arvino de Oliveira,, , Vila Pedrini, , 89600-000",
     "potencia": "GOB",
-    "diaSessao": "Çaba",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1681672,-51.5082907&z=15"
   },
   {
     "id": "4099",
     "nome": "ESTRELA DO ORIENTE",
     "numero": "4099",
-    "rito": "2º e 4º Quarta Feira - 20h",
-    "cidade": "Tubar",
+    "rito": "Brasileiro",
+    "cidade": "Tubarão",
     "estado": "SC",
-    "endereco": "Rito Brasileiro, Avenida Marcolino Martins Cabral, 5482",
+    "endereco": "Avenida Marcolino Martins Cabral, 5482, , Passagem, , 88705-006",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "2º",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-28.4750779,-48.9940986&z=15"
   },
   {
     "id": "2119",
@@ -618,10 +846,12 @@
     "rito": "REAA",
     "cidade": "Canoinhas",
     "estado": "SC",
-    "endereco": "BR 280, KM 213, s/n, Barra Grande",
+    "endereco": "BR 280, KM 213, s/n, , Barra Grande, , 89460-000",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.1911482,-50.4045566&z=15"
   },
   {
     "id": "2965",
@@ -630,10 +860,12 @@
     "rito": "Schröder",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, Estreito",
+    "endereco": "Rua Machado de Assis, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "1ª,",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1,",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5895068,-48.5787252&z=15"
   },
   {
     "id": "3929",
@@ -642,10 +874,12 @@
     "rito": "REAA",
     "cidade": "Itajaí",
     "estado": "SC",
-    "endereco": "Rua São Gonçalo,, Dom Bosco",
+    "endereco": "Rua São Gonçalo,, , Dom Bosco, , 88310-170",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "Semanal"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9090991,-48.6649817&z=15"
   },
   {
     "id": "3763",
@@ -654,10 +888,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Presidente Gama Rosa, 36, Trindade",
+    "endereco": "Rua Presidente Gama Rosa, 36, , Trindade, , 88036-260",
     "potencia": "GOB",
-    "diaSessao": "Exta",
-    "frequencia": "Semanal"
+    "diaSessao": "Sexta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5858891,-48.5217242&z=15"
   },
   {
     "id": "4321",
@@ -666,10 +902,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, 200, Abraão",
+    "endereco": "Rua Bias Peixoto, 200, , Abraão, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "Terça-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.6073375,-48.5902871&z=15"
   },
   {
     "id": "2025",
@@ -678,10 +916,12 @@
     "rito": "REAA",
     "cidade": "Itajaí",
     "estado": "SC",
-    "endereco": "Rua São Gonçalo, 100, Dom Bosco",
+    "endereco": "Rua São Gonçalo, 100, , Dom Bosco, , 88301-970",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9220042,-48.6818496&z=15"
   },
   {
     "id": "4615",
@@ -690,10 +930,12 @@
     "rito": "Adonhiramita",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, Estreito",
+    "endereco": "Rua Machado de Assis, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Essões",
-    "frequencia": "Semanal"
+    "diaSessao": "Sessões",
+    "horario": "20:00:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5933546,-48.5733002&z=15"
   },
   {
     "id": "4284",
@@ -702,34 +944,40 @@
     "rito": "Moderno",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Monsenhor Gersino, 3154, Itaum",
+    "endereco": "Rua Monsenhor Gersino, 3154, , Itaum, , 89210-505",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "09:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-26.3319521,-48.8297284&z=15"
   },
   {
     "id": "3685",
     "nome": "FRATERNIDADE ACADÊMICA CIÊNCIA E ARTES",
     "numero": "3685",
     "rito": "Moderno",
-    "cidade": "Jaraguá Do Sul",
+    "cidade": "Jaraguá do Sul",
     "estado": "SC",
-    "endereco": "Rua Prefeito José Bauer, 1300, Três Rios do Sul",
+    "endereco": "Rua Prefeito José Bauer, 1300, , Três Rios do Sul, , 89254-235",
     "potencia": "GOB",
-    "diaSessao": "Quinta-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1°",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-26.4516955,-49.1198263&z=15"
   },
   {
     "id": "3393",
     "nome": "FRATERNIDADE ALCANTARENSE",
     "numero": "3393",
-    "rito": "1º e 3º Quarta-Feira",
-    "cidade": "S",
+    "rito": "Adonhiramita",
+    "cidade": "São José",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Rua Gabriel Marciano, 01",
+    "endereco": "Rua Gabriel Marciano, 01, , Centro Histórico, , 88103-215",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "1º",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.884374,-48.5881884&z=15"
   },
   {
     "id": "3314",
@@ -738,34 +986,68 @@
     "rito": "REAA",
     "cidade": "Barra Velha",
     "estado": "SC",
-    "endereco": "Rua Eugenio Antônio Ribas,, Centro",
+    "endereco": "Rua Eugenio Antônio Ribas,, , Centro, , 88390-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.6332972,-48.6851037&z=15"
+  },
+  {
+    "id": "3620",
+    "nome": "FRATERNIDADE JARAGUAENSE",
+    "numero": "3620",
+    "rito": "REAA",
+    "cidade": "Jaraguá do Sul",
+    "estado": "SC",
+    "endereco": "Rua Francisco Vegini, 234, , Czerniewicz, , 89255-270",
+    "potencia": "GOB",
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.4732628,-49.0891376&z=15"
   },
   {
     "id": "4314",
     "nome": "FRATERNIDADE JOAÇABENSE",
     "numero": "4314",
-    "rito": "Quinta Feira - 20h",
-    "cidade": "Joa",
+    "rito": "REAA",
+    "cidade": "Joaçaba",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Antônio Nunes Varela, 1003",
+    "endereco": "Rua Antônio Nunes Varela, 1003, , Vila Pedrini, , 89600-000",
     "potencia": "GOB",
-    "diaSessao": "Çaba",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1726794,-51.503061&z=15"
   },
   {
     "id": "4590",
     "nome": "FRATERNIDADE RIOSULENSE",
     "numero": "4590",
     "rito": "Adonhiramita",
-    "cidade": "Rio Do Sul",
+    "cidade": "Rio do Sul",
     "estado": "SC",
-    "endereco": "Rua Bom Pastor, 33, Canta Galo",
+    "endereco": "Rua Bom Pastor, 33, , Canta Galo, , 89160-059",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "4907",
+    "nome": "FREIE HUMANISTEN",
+    "numero": "4907",
+    "rito": "Schröder",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "endereco": "Rua Bernardino Vaz, 177, , Estreito, , 88075-090",
+    "potencia": "GOB",
+    "diaSessao": "2°",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5967072,-48.5853629&z=15"
   },
   {
     "id": "3194",
@@ -774,10 +1056,12 @@
     "rito": "Schröder",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Servidão Acácia Joinville, 133, Itaum",
+    "endereco": "Servidão Acácia Joinville, 133, , Itaum, , 89210-057",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3319431,-48.8294764&z=15"
   },
   {
     "id": "3041",
@@ -786,10 +1070,12 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5931655,-48.5729331&z=15"
   },
   {
     "id": "2831",
@@ -798,10 +1084,12 @@
     "rito": "Adonhiramita",
     "cidade": "Itapema",
     "estado": "SC",
-    "endereco": "Rua 294,, Castelo Branco",
+    "endereco": "Rua 294,, , Castelo Branco, , 88220-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1399945,-48.6009023&z=15"
   },
   {
     "id": "4650",
@@ -810,22 +1098,40 @@
     "rito": "Adonhiramita",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Quartas-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "Não informado",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4198",
+    "nome": "GUARDIÕES DAS VIRTUDES",
+    "numero": "4198",
+    "rito": "Adonhiramita",
+    "cidade": "Biguaçu",
+    "estado": "SC",
+    "endereco": "Rua Miguel Cypriano Simas, 190, , Praia de São Miguel, , 88168-029",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.4747625,-48.6429449&z=15"
   },
   {
     "id": "2701",
     "nome": "GÊNESIS",
     "numero": "2701",
-    "rito": "1° e 3° - Segunda Feira - 20h",
-    "cidade": "Tubar",
+    "rito": "Adonhiramita",
+    "cidade": "Tubarão",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Avenida Marcolino Martins Cabral, 5482",
+    "endereco": "Avenida Marcolino Martins Cabral, 5482, , Passagem, , 88705-006",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "1°",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-28.4749648,-48.9940687&z=15"
   },
   {
     "id": "3490",
@@ -834,10 +1140,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5931761,-48.5732809&z=15"
   },
   {
     "id": "2816",
@@ -846,10 +1154,12 @@
     "rito": "Moderno",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Vidal Ramos, 310, Centro",
+    "endereco": "Rua Vidal Ramos, 310, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5944764,-48.5521255&z=15"
   },
   {
     "id": "2818",
@@ -858,10 +1168,12 @@
     "rito": "REAA",
     "cidade": "Timbó",
     "estado": "SC",
-    "endereco": "Rua das Acácias, Dos Estados",
+    "endereco": "Rua das Acácias, , Dos Estados, , 89093620",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.7444979,-49.2778248&z=15"
   },
   {
     "id": "1896",
@@ -870,10 +1182,12 @@
     "rito": "REAA",
     "cidade": "Blumenau",
     "estado": "SC",
-    "endereco": "Rua Londrina, Velha",
+    "endereco": "Rua Londrina, , Velha, , 89036-610",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9166755,-49.095839&z=15"
   },
   {
     "id": "4751",
@@ -882,34 +1196,68 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Conde Afonso Celso, 36 sala 303, Capoeiras",
+    "endereco": "Rua Conde Afonso Celso, 36 sala 303, , Capoeiras, , 88070-560",
     "potencia": "GOB",
-    "diaSessao": "Uarta-feira",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "3059",
+    "nome": "HIRAM",
+    "numero": "3059",
+    "rito": "Adonhiramita",
+    "cidade": "Mafra",
+    "estado": "SC",
+    "endereco": "Rua Henrique Popper, s/n, , Vila Nova, , 89303272",
+    "potencia": "GOB",
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.1387284,-49.8323002&z=15"
   },
   {
     "id": "3085",
     "nome": "HORIZONTE DE LUZ",
     "numero": "3085",
-    "rito": "Terça Feira - 20h",
-    "cidade": "Xanxer",
+    "rito": "REAA",
+    "cidade": "Xanxerê",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Severino Tonial, s/n",
+    "endereco": "Rua Severino Tonial, s/n, , Demetrio Giordani, , 89820-000",
     "potencia": "GOB",
-    "diaSessao": "Ê",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.8801323,-52.3904281&z=15"
   },
   {
     "id": "4919",
     "nome": "HORIZONTE TEMPLÁRIO",
     "numero": "4919",
-    "rito": "Rua Ayres Lourenço Penk, nº 22",
+    "rito": "RER",
     "cidade": "Brusque",
     "estado": "SC",
-    "endereco": "Guarani, 88350-590",
+    "endereco": "Rua Ayres Lourenço Penk, nº 22, , Guarani, , 88350-590",
     "potencia": "GOB",
-    "diaSessao": "Ito",
-    "frequencia": "Semanal"
+    "diaSessao": "",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "4903",
+    "nome": "IGUALDADE E EQUIDADE",
+    "numero": "4903",
+    "rito": "Brasileiro",
+    "cidade": "Araranguá",
+    "estado": "SC",
+    "endereco": "Rua Ari Kardec Bosco de Melo, 250, , Lagoa da Serra, , 88900-970",
+    "potencia": "GOB",
+    "diaSessao": "2°",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-28.9340548,-49.4801248&z=15"
   },
   {
     "id": "4462",
@@ -918,22 +1266,26 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5832542,-48.604631&z=15"
   },
   {
     "id": "4312",
     "nome": "JERUSALÉM",
     "numero": "4312",
-    "rito": "Rito Escocês Retificado",
+    "rito": "RER",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bernardino Vaz, Estreito",
+    "endereco": "Rua Bernardino Vaz, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5894893,-48.5780159&z=15"
   },
   {
     "id": "1820",
@@ -942,22 +1294,26 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Servidão do Palmeiras esq. c/Servidão. Honorato Manoel, Itacorubi",
+    "endereco": "Servidão do Palmeiras esq. c/Servidão. Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
     "diaSessao": "1º",
-    "frequencia": "1ª e 3ª semana"
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5896414,-48.5781965&z=15"
   },
   {
     "id": "4709",
-    "nome": "LABOR",
+    "nome": "JUSTIÇA & LABOR",
     "numero": "4709",
     "rito": "Schröder",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Pintor Eduardo Dias, 237, Jardim Atlântico",
+    "endereco": "Rua Pintor Eduardo Dias, 237, , Jardim Atlântico, , 88095-800",
     "potencia": "GOB",
-    "diaSessao": "Terças-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2º",
+    "horario": "Não informado",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5761109,-48.6004411&z=15"
   },
   {
     "id": "3009",
@@ -966,10 +1322,12 @@
     "rito": "Brasileiro",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Coronel Procópio Gomes, 70, Centro",
+    "endereco": "Rua Coronel Procópio Gomes, 70, , Centro, , 89202-300",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3064386,-48.8410284&z=15"
   },
   {
     "id": "3496",
@@ -978,22 +1336,26 @@
     "rito": "York",
     "cidade": "Balneário Camboriú",
     "estado": "SC",
-    "endereco": "Rua Quinta Avenida, 1243, Municípios",
+    "endereco": "Rua Quinta Avenida, 1243, , Municípios, , 88337-335",
     "potencia": "GOB",
     "diaSessao": "1°",
-    "frequencia": "1ª e 3ª semana"
+    "horario": "10:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-26.9982091,-48.6438738&z=15"
   },
   {
     "id": "1694",
-    "nome": "LLER",
+    "nome": "LAURO MÜLLER",
     "numero": "1694",
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Presidente Gama Rosa,, Trindade",
+    "endereco": "Rua Presidente Gama Rosa,, , Trindade, , 88036-260",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5877176,-48.5236637&z=15"
   },
   {
     "id": "3058",
@@ -1002,10 +1364,26 @@
     "rito": "Moderno",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Vidal Ramos, 310, Centro",
+    "endereco": "Rua Vidal Ramos, 310, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4595",
+    "nome": "LEALDADE E FRATERNIDADE",
+    "numero": "4595",
+    "rito": "Brasileiro",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "endereco": "Rua Bias Peixoto, , Itaguaçu, , 88066413",
+    "potencia": "GOB",
+    "diaSessao": "",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.607362,-48.5902313&z=15"
   },
   {
     "id": "4626",
@@ -1014,34 +1392,54 @@
     "rito": "York",
     "cidade": "Campos Novos",
     "estado": "SC",
-    "endereco": "Rua São João Batista, 380, Centro",
+    "endereco": "Rua São João Batista, 380, , Centro, , 89620-000",
     "potencia": "GOB",
-    "diaSessao": "(quinzenal)",
-    "frequencia": "Quinzenal"
+    "diaSessao": "Seg",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "3228",
+    "nome": "LIBERTAÇÃO",
+    "numero": "3228",
+    "rito": "Adonhiramita",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88117-030",
+    "potencia": "GOB",
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5931851,-48.5732556&z=15"
   },
   {
     "id": "3153",
     "nome": "LIVRE PENSAR",
     "numero": "3153",
-    "rito": "Segunda Feira - 20h",
-    "cidade": "Balneário Pi",
+    "rito": "Adonhiramita",
+    "cidade": "Penha",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Avenida Nereu Ramos, 768",
+    "endereco": "Avenida Nereu Ramos, 768, , Praia Alegre, , 88385-000",
     "potencia": "GOB",
-    "diaSessao": "Çarras",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.7728694,-48.6526794&z=15"
   },
   {
     "id": "4405",
-    "nome": "DER",
+    "nome": "LUDWIG SCHRÖDER",
     "numero": "4405",
     "rito": "Schröder",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Dona francisca, 3801, Saguaçú",
+    "endereco": "Rua Dona francisca, 3801, , Saguaçú, , 89221-009",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-26.2817022,-48.8513636&z=15"
   },
   {
     "id": "3621",
@@ -1050,22 +1448,26 @@
     "rito": "Schröder",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Servidão Do Palmeiras esq. c/Servidão Honorato Manoel, Itacorubi",
+    "endereco": "Servidão Do Palmeiras esq. c/Servidão Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "3ª",
-    "frequencia": "Semanal"
+    "diaSessao": "3",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5880476,-48.4929929&z=15"
   },
   {
     "id": "2586",
     "nome": "LUZ DA ACÁCIA",
     "numero": "2586",
     "rito": "REAA",
-    "cidade": "Jaraguá Do Sul",
+    "cidade": "Jaraguá do Sul",
     "estado": "SC",
-    "endereco": "Rua Francisco Vegini, s/n, Czerniewicz",
+    "endereco": "Rua Francisco Vegini, s/n, , Czerniewicz, , 89255-270",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.4732502,-49.0888186&z=15"
   },
   {
     "id": "3764",
@@ -1074,10 +1476,12 @@
     "rito": "Brasileiro",
     "cidade": "Itajaí",
     "estado": "SC",
-    "endereco": "Rua David Adão Schimidt, São Vicente",
+    "endereco": "Rua David Adão Schimidt, , São Vicente, , 88317118",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.8939443,-48.6867125&z=15"
   },
   {
     "id": "2933",
@@ -1086,10 +1490,12 @@
     "rito": "Adonhiramita",
     "cidade": "Lages",
     "estado": "SC",
-    "endereco": "Rua José Sydnei Guzzatti, s/n, Jardim das Camélias",
+    "endereco": "Rua José Sydnei Guzzatti, s/n, , Jardim das Camélias, , 88502-140",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.9988993,-50.9082363&z=15"
   },
   {
     "id": "3563",
@@ -1098,10 +1504,12 @@
     "rito": "REAA",
     "cidade": "Corupá",
     "estado": "SC",
-    "endereco": "Rua XV de Novembro, Centro",
+    "endereco": "Rua XV de Novembro, , Centro, , 89390-005",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.4289966,-49.2387325&z=15"
   },
   {
     "id": "3687",
@@ -1110,10 +1518,12 @@
     "rito": "Brasileiro",
     "cidade": "Lages",
     "estado": "SC",
-    "endereco": "Rua José Sydnei Guzzatti, s/n, Jardim das Camélias",
+    "endereco": "Rua José Sydnei Guzzatti, s/n, , Jardim das Camélias, , 88517-400",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.7617725,-50.3328632&z=15"
   },
   {
     "id": "4530",
@@ -1122,10 +1532,12 @@
     "rito": "Adonhiramita",
     "cidade": "Curitibanos",
     "estado": "SC",
-    "endereco": "Praça França Abraão, 03, São Francisco",
+    "endereco": "Praça França Abraão, 03, , São Francisco, , 89520-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.2834537,-50.5817378&z=15"
   },
   {
     "id": "3033",
@@ -1134,22 +1546,40 @@
     "rito": "Brasileiro",
     "cidade": "Navegantes",
     "estado": "SC",
-    "endereco": "Rua Gracelides Coelho Reiser, São Domingos",
+    "endereco": "Rua Gracelides Coelho Reiser, , São Domingos, , 88370-552",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.8861261,-48.6593574&z=15"
   },
   {
     "id": "3884",
     "nome": "LUZ DE SÃO JOAQUIM",
     "numero": "3884",
-    "rito": "Segunda Feira - 20h",
-    "cidade": "S",
+    "rito": "Adonhiramita",
+    "cidade": "São Joaquim",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Rua Treze de Março, s/n",
+    "endereco": "Rua Treze de Março, s/n, , Jardim Bandeira, , 88600-000",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "3639",
+    "nome": "LUZ DE SÃO MIGUEL",
+    "numero": "3639",
+    "rito": "Brasileiro",
+    "cidade": "São Miguel do Oeste",
+    "estado": "SC",
+    "endereco": "Rua XV de Novembro, 576, , Centro, , 89900-000",
+    "potencia": "GOB",
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.7461768,-53.5187815&z=15"
   },
   {
     "id": "3951",
@@ -1158,10 +1588,12 @@
     "rito": "REAA",
     "cidade": "Itapema",
     "estado": "SC",
-    "endereco": "Rua 226, Meia Praia",
+    "endereco": "Rua 226, , Meia Praia, , 88220-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1262707,-48.608811&z=15"
   },
   {
     "id": "2894",
@@ -1170,10 +1602,12 @@
     "rito": "Brasileiro",
     "cidade": "Balneário Camboriú",
     "estado": "SC",
-    "endereco": "Rua 2.480, 431, Centro",
+    "endereco": "Rua 2.480, 431, , Centro, , 88330-358",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9959275,-48.6307201&z=15"
   },
   {
     "id": "3015",
@@ -1182,22 +1616,26 @@
     "rito": "Adonhiramita",
     "cidade": "Chapecó",
     "estado": "SC",
-    "endereco": "Rua 14 de Agosto, Maria Goretti",
+    "endereco": "Rua 14 de Agosto, , Maria Goretti, , 89812-435",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1046966,-52.6017632&z=15"
   },
   {
     "id": "4173",
     "nome": "LUZ DO ORIENTE",
     "numero": "4173",
-    "rito": "1ª e 3ª Quarta Feira - 20h",
-    "cidade": "I",
+    "rito": "York",
+    "cidade": "Morro da Fumaça",
     "estado": "SC",
-    "endereco": "Rito de York, Rodovia Libero Fortunato Liberato",
+    "endereco": "Rodovia Libero Fortunato Liberato, , Linha Cabral, , 88837959",
     "potencia": "GOB",
-    "diaSessao": "Çara",
-    "frequencia": "Semanal"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-28.6251987,-49.316975&z=15"
   },
   {
     "id": "2845",
@@ -1206,10 +1644,12 @@
     "rito": "Adonhiramita",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Avenida Procópio Gomes, 70, Centro",
+    "endereco": "Avenida Procópio Gomes, 70, , Centro, , 89202-300",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3062397,-48.8414221&z=15"
   },
   {
     "id": "3370",
@@ -1218,22 +1658,26 @@
     "rito": "REAA",
     "cidade": "Gaspar",
     "estado": "SC",
-    "endereco": "Rua Luiz Franzoi, 2.222, Margem Esquerda",
+    "endereco": "Rua Luiz Franzoi, 2.222, , Margem Esquerda, , 89114-442",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9269706,-48.9601467&z=15"
   },
   {
     "id": "327",
     "nome": "LUZ E CARIDADE",
     "numero": "327",
-    "rito": "1º e 3º Quarta Feira - 20h",
-    "cidade": "S",
+    "rito": "REAA",
+    "cidade": "São Francisco do Sul",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Benjamim Constant, 196",
+    "endereco": "Rua Benjamim Constant, 196, , Centro, , 89334533",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "1º",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-26.2463288,-48.6402622&z=15"
   },
   {
     "id": "3643",
@@ -1242,10 +1686,12 @@
     "rito": "REAA",
     "cidade": "Rio Negrinho",
     "estado": "SC",
-    "endereco": "Rua Alfredo Girardi, 211, Vila Nova",
+    "endereco": "Rua Alfredo Girardi, 211, , Vila Nova, , 89295-000",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.2511486,-49.5155683&z=15"
   },
   {
     "id": "3347",
@@ -1254,22 +1700,26 @@
     "rito": "Brasileiro",
     "cidade": "Brusque",
     "estado": "SC",
-    "endereco": "Rua Varginha, Rio Branco",
+    "endereco": "Rua Varginha, , Rio Branco, , 88350-700",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1190817,-48.9562647&z=15"
   },
   {
     "id": "4328",
     "nome": "LUZ E INTEGRAÇÃO",
     "numero": "4328",
     "rito": "York",
-    "cidade": "Jaraguá Do Sul",
+    "cidade": "Jaraguá do Sul",
     "estado": "SC",
-    "endereco": "Rua Prefeito José Bauer, 1.300, Três Rios do Sul",
+    "endereco": "Rua Prefeito José Bauer, 1.300, , Três Rios do Sul, , 89254-100",
     "potencia": "GOB",
-    "diaSessao": "Terça-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-26.4564944,-49.1141243&z=15"
   },
   {
     "id": "1066",
@@ -1278,34 +1728,54 @@
     "rito": "REAA",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Avenida Procópio Gomes, 70, Centro",
+    "endereco": "Avenida Procópio Gomes, 70, , Centro, , 89202-300",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3068872,-48.8417077&z=15"
   },
   {
     "id": "3050",
     "nome": "LUZ ESOTÉRICA",
     "numero": "3050",
-    "rito": "Quarta Feira - 20h",
-    "cidade": "Porto Uni",
+    "rito": "Adonhiramita",
+    "cidade": "Porto União",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Rua Secondo Eleseu Bortoluzzi, 433",
+    "endereco": "Rua Secondo Eleseu Bortoluzzi, 433, , Bela Vista, , 89400-000",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.2723177,-51.0773899&z=15"
   },
   {
     "id": "4760",
     "nome": "MANOEL PEDRO",
     "numero": "4760",
-    "rito": "1° e 3° Terças-Feiras - 20 horas",
-    "cidade": "Palho",
+    "rito": "York",
+    "cidade": "Palhoça",
     "estado": "SC",
-    "endereco": "Rito de York, Rua Luiz Silva",
+    "endereco": "Rua Luiz Silva,, , São Sebastião, , 88136-028",
     "potencia": "GOB",
-    "diaSessao": "Ça",
-    "frequencia": "Semanal"
+    "diaSessao": "1°",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "3454",
+    "nome": "MESTRES DA FRATERNIDADE",
+    "numero": "3454",
+    "rito": "REAA",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "endereco": "Rua Vidal Ramos, 310, , Centro, , 88010-320",
+    "potencia": "GOB",
+    "diaSessao": "2°",
+    "horario": "16:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5946449,-48.5520598&z=15"
   },
   {
     "id": "4880",
@@ -1314,10 +1784,12 @@
     "rito": "Schröder",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "RUA MARARI, ATIRADORES",
+    "endereco": "RUA MARARI, , ATIRADORES, , 89203-080",
     "potencia": "GOB",
-    "diaSessao": "Segundas-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2°",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-26.3085834,-48.861126&z=15"
   },
   {
     "id": "2744",
@@ -1326,10 +1798,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, 200, Itaguaçu",
+    "endereco": "Rua Bias Peixoto, 200, , Itaguaçu, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5946449,-48.5520598&z=15"
   },
   {
     "id": "4631",
@@ -1338,10 +1812,26 @@
     "rito": "REAA",
     "cidade": "Garuva",
     "estado": "SC",
-    "endereco": "Avenida Paraná, 1581, Garuva",
+    "endereco": "Avenida Paraná, 1581, , Garuva, , 89248-000",
     "potencia": "GOB",
-    "diaSessao": "Sextas-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4185",
+    "nome": "NOVO HORIZONTE",
+    "numero": "4185",
+    "rito": "RER",
+    "cidade": "Balneário Camboriú",
+    "estado": "SC",
+    "endereco": "Rua 2480, , Centro, , 88336410",
+    "potencia": "GOB",
+    "diaSessao": "1º",
+    "horario": "09:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.1129967,-48.9213188&z=15"
   },
   {
     "id": "4711",
@@ -1350,22 +1840,40 @@
     "rito": "Adonhiramita",
     "cidade": "Chapecó",
     "estado": "SC",
-    "endereco": "Rua 14 de Agosto, 311, MARIA GORETE",
+    "endereco": "Rua 14 de Agosto, 311, , MARIA GORETE, , 89801-414",
     "potencia": "GOB",
-    "diaSessao": "Erças-feiras",
-    "frequencia": "Semanal"
+    "diaSessao": "Terças",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "3827",
+    "nome": "OBREIROS DA TERRA FIRME",
+    "numero": "3827",
+    "rito": "York",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "endereco": "Rua Bernadino Vaz, 177, , Estreito, , 88075-090",
+    "potencia": "GOB",
+    "diaSessao": "1°",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5896261,-48.5784337&z=15"
   },
   {
     "id": "3161",
     "nome": "OBREIROS DE TRENTO",
     "numero": "3161",
     "rito": "Adonhiramita",
-    "cidade": "Rio Dos Cedros",
+    "cidade": "Rio dos Cedros",
     "estado": "SC",
-    "endereco": "Rua Brasília, 333, Divinéia",
+    "endereco": "Rua Brasília, 333, , Divinéia, , 89121-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.7443776,-49.2781327&z=15"
   },
   {
     "id": "3797",
@@ -1374,10 +1882,12 @@
     "rito": "Brasileiro",
     "cidade": "Itajaí",
     "estado": "SC",
-    "endereco": "Rua David Adão Schimidt, 565, Barra do Rio",
+    "endereco": "Rua David Adão Schimidt, 565, , Barra do Rio, , 88305-400",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9317802,-48.6754992&z=15"
   },
   {
     "id": "0787",
@@ -1386,10 +1896,12 @@
     "rito": "Moderno",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Servidão do Palmeiras esq. c/Servidão. Honorato Manoel, Itacorubi",
+    "endereco": "Servidão do Palmeiras esq. c/Servidão. Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5876833,-48.493774&z=15"
   },
   {
     "id": "2859",
@@ -1398,10 +1910,12 @@
     "rito": "Adonhiramita",
     "cidade": "Brusque",
     "estado": "SC",
-    "endereco": "Estrada Geral da Vaginha, s/n, Rio Branco",
+    "endereco": "Estrada Geral da Vaginha, s/n, , Rio Branco, , 88356334",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.119003,-48.9566888&z=15"
   },
   {
     "id": "3765",
@@ -1410,22 +1924,26 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bernadino Vaz, 177, Estreito",
+    "endereco": "Rua Bernadino Vaz, 177, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5896489,-48.5786125&z=15"
   },
   {
     "id": "3184",
     "nome": "OTÁVIO ROSA",
     "numero": "3184",
-    "rito": "Sábado - 9h",
-    "cidade": "S",
+    "rito": "Adonhiramita",
+    "cidade": "São Pedro de Alcântara",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Estrada Geral de São Pedro de Alcântara, s/n",
+    "endereco": "Estrada Geral de São Pedro de Alcântara, s/n, , Fazenda Paraíso da Serra, , 88125-000",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Sábado",
+    "horario": "9:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.578484,-48.8172189&z=15"
   },
   {
     "id": "4093",
@@ -1434,10 +1952,12 @@
     "rito": "Adonhiramita",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bernadino Vaz, Estreito",
+    "endereco": "Rua Bernadino Vaz, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "Ltimos",
-    "frequencia": "Semanal"
+    "diaSessao": "Últimos",
+    "horario": "15:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5967072,-48.5853629&z=15"
   },
   {
     "id": "2121",
@@ -1446,10 +1966,12 @@
     "rito": "REAA",
     "cidade": "Blumenau",
     "estado": "SC",
-    "endereco": "Rua Buenos Aires, 183, Ponta Aguda",
+    "endereco": "Rua Buenos Aires, 183, , Ponta Aguda, , 89051-050",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9070717,-49.0676277&z=15"
   },
   {
     "id": "3416",
@@ -1458,10 +1980,26 @@
     "rito": "Brasileiro",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Dona Francisca, 3801 - Fundos, Saguaçu",
+    "endereco": "Rua Dona Francisca, 3801 - Fundos, , Saguaçu, , 89221-009",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.3407872,-48.8241782&z=15"
+  },
+  {
+    "id": "0998",
+    "nome": "PAZ E AMOR 5ª",
+    "numero": "0998",
+    "rito": "REAA",
+    "cidade": "São Francisco do Sul",
+    "estado": "SC",
+    "endereco": "Rua Benjamim Constant, 196, , Centro, , 89334533",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.2462757,-48.6401675&z=15"
   },
   {
     "id": "3149",
@@ -1470,10 +2008,12 @@
     "rito": "REAA",
     "cidade": "Itapoá",
     "estado": "SC",
-    "endereco": "Rua João Horácio Vieira,, Centro",
+    "endereco": "Rua João Horácio Vieira,, , Centro, , 89361-848",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.101944,-48.6074935&z=15"
   },
   {
     "id": "3156",
@@ -1482,10 +2022,12 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto,, Itaguaçu",
+    "endereco": "Rua Bias Peixoto,, , Itaguaçu, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "Terças-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.6071432,-48.5905097&z=15"
   },
   {
     "id": "3005",
@@ -1494,22 +2036,68 @@
     "rito": "Adonhiramita",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, Estreito",
+    "endereco": "Rua Machado de Assis, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "4639",
+    "nome": "PERSEVERANÇA",
+    "numero": "4639",
+    "rito": "York",
+    "cidade": "Capivari de Baixo",
+    "estado": "SC",
+    "endereco": "Rua Carlos Chagas, , Centro, , 88745-000",
+    "potencia": "GOB",
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "2968",
+    "nome": "PERSEVERANÇA E FIDELIDADE",
+    "numero": "2968",
+    "rito": "REAA",
+    "cidade": "Araranguá",
+    "estado": "SC",
+    "endereco": "Rua Ari Kardec Bosco de Melo,, , Lagoa da serra, , 88900-970",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.9340548,-49.4801248&z=15"
   },
   {
     "id": "4817",
     "nome": "PESCANDO CONHECIMENTOS",
     "numero": "4817",
-    "rito": "Rito Escocês Retificado",
+    "rito": "RER",
     "cidade": "Pescaria Brava",
     "estado": "SC",
-    "endereco": "Margens da BR 101, 10, 88798-000",
+    "endereco": "Margens da BR 101, 10, , 88798-000",
     "potencia": "GOB",
-    "diaSessao": "Segundas-feira",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "3557",
+    "nome": "PHILANTROPIA E LIBERDADE",
+    "numero": "3557",
+    "rito": "Moderno",
+    "cidade": "Brusque",
+    "estado": "SC",
+    "endereco": "Rua Guilherme Alberto Frederico Hoeffelmann, 165 Fundos, , Rio Branco, , 88356334",
+    "potencia": "GOB",
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1044782,-48.9316204&z=15"
   },
   {
     "id": "3662",
@@ -1518,10 +2106,12 @@
     "rito": "York",
     "cidade": "Balneário Camboriú",
     "estado": "SC",
-    "endereco": "Rua Quinta Avenida, 1243, Tabuleiro",
+    "endereco": "Rua Quinta Avenida, 1243, , Tabuleiro, , 88330-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0072452,-48.6481336&z=15"
   },
   {
     "id": "4759",
@@ -1530,10 +2120,26 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
     "diaSessao": "2º",
-    "frequencia": "2ª e 4ª semana"
+    "horario": "18:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "2385",
+    "nome": "PLÁCIDO OLÍMPIO DE OLIVEIRA",
+    "numero": "2385",
+    "rito": "REAA",
+    "cidade": "Rio do Sul",
+    "estado": "SC",
+    "endereco": "Rua Bom Pastor, 33, , Cantagalo, , 89163-059",
+    "potencia": "GOB",
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.2046779,-49.6313033&z=15"
   },
   {
     "id": "2115",
@@ -1542,10 +2148,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, 200, Estreito",
+    "endereco": "Rua Bias Peixoto, 200, , Estreito, , 88075-480",
     "potencia": "GOB",
-    "diaSessao": "2ª,",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2,",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.6072926,-48.5904773&z=15"
   },
   {
     "id": "1977",
@@ -1554,10 +2162,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Presidente Gama Rosa, 36, Trindade",
+    "endereco": "Rua Presidente Gama Rosa, 36, , Trindade, , 88036-260",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5876028,-48.5235296&z=15"
   },
   {
     "id": "4371",
@@ -1566,22 +2176,26 @@
     "rito": "York",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Coronel Francisco Gomes, 1000, Bacarein",
+    "endereco": "Rua Coronel Francisco Gomes, 1000, , Bacarein, , 89202-252",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.2818663,-48.8512904&z=15"
   },
   {
     "id": "3572",
     "nome": "QUINTESSÊNCIA",
     "numero": "3572",
     "rito": "REAA",
-    "cidade": "Itapema",
+    "cidade": "Tijucas",
     "estado": "SC",
-    "endereco": "Rua Inhambú, 100, Bairro Praça",
+    "endereco": "Rua Inhambú, 100, , Bairro Praça, , 88200-266",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.2330002,-48.6249177&z=15"
   },
   {
     "id": "4293",
@@ -1590,22 +2204,26 @@
     "rito": "REAA",
     "cidade": "Bombinhas",
     "estado": "SC",
-    "endereco": "Rua Baleia Jubarte, 242, Zé Amândio",
+    "endereco": "Rua Baleia Jubarte, 242, , Zé Amândio, , 88215-000",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1519891,-48.5009513&z=15"
   },
   {
     "id": "3803",
     "nome": "QUIRON ZUM ERFOLG",
     "numero": "3803",
-    "rito": "Quinta Feira - 20h",
-    "cidade": "S",
+    "rito": "Schröder",
+    "cidade": "São Bento do Sul",
     "estado": "SC",
-    "endereco": "Rito Schröder, Avenida dos Imigrantes, 1750",
+    "endereco": "Avenida dos Imigrantes, 1750, , Centro, , 89280-970",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.2376119,-49.3890783&z=15"
   },
   {
     "id": "3786",
@@ -1614,10 +2232,12 @@
     "rito": "Moderno",
     "cidade": "Brusque",
     "estado": "SC",
-    "endereco": "Estrada Geral da Varginha, Rio Branco",
+    "endereco": "Estrada Geral da Varginha, , Rio Branco, , 88350-700",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "2",
+    "horario": "09:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.1050027,-48.9324584&z=15"
   },
   {
     "id": "0138",
@@ -1626,22 +2246,26 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Vidal Ramos,, Centro",
+    "endereco": "Rua Vidal Ramos,, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5946444,-48.5520963&z=15"
   },
   {
     "id": "4100",
     "nome": "REGENERAÇÃO GUABIRUBENSE",
     "numero": "4100",
     "rito": "REAA",
-    "cidade": "Guabiruba",
+    "cidade": "Brusque",
     "estado": "SC",
-    "endereco": "Estrada Geral da Varginha, 592, Rio Branco",
+    "endereco": "Estrada Geral da Varginha, 592, , Rio Branco, , 88356334",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1055729,-48.9318954&z=15"
   },
   {
     "id": "2984",
@@ -1650,22 +2274,26 @@
     "rito": "REAA",
     "cidade": "Laguna",
     "estado": "SC",
-    "endereco": "Rua Voluntário Benevides, 251, Centro",
+    "endereco": "Rua Voluntário Benevides, 251, , Centro, , 88790-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.4842426,-48.7789513&z=15"
   },
   {
     "id": "4007",
     "nome": "RENASCER DO VALE",
     "numero": "4007",
-    "rito": "Terça Feira - 20h",
-    "cidade": "Balneário Pi",
+    "rito": "REAA",
+    "cidade": "Navegantes",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Frei Odorico Durieux, 57",
+    "endereco": "Rua Frei Odorico Durieux, 57, , Centro, , 88370-000",
     "potencia": "GOB",
-    "diaSessao": "Çarras",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.8820124,-48.6436798&z=15"
   },
   {
     "id": "3387",
@@ -1674,10 +2302,12 @@
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Orlando Brasil, Capoeiras",
+    "endereco": "Rua Orlando Brasil, , Capoeiras, , 88070-420",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5931655,-48.5729331&z=15"
   },
   {
     "id": "3751",
@@ -1686,22 +2316,26 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, 200, Itaguaçu",
+    "endereco": "Rua Bias Peixoto, 200, , Itaguaçu, , 88125-000",
     "potencia": "GOB",
-    "diaSessao": "Ábado",
-    "frequencia": "Semanal"
+    "diaSessao": "Sábado",
+    "horario": "10:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6074195,-48.5906014&z=15"
   },
   {
     "id": "4470",
     "nome": "RETIDÃO E JUSTIÇA",
     "numero": "4470",
     "rito": "Adonhiramita",
-    "cidade": "Otacílio Costa",
+    "cidade": "Palmeira",
     "estado": "SC",
-    "endereco": "Avenida Ricardo Beffart, s/n, Oracides de Souza",
+    "endereco": "Avenida Ricardo Beffart, s/n, , Oracides de Souza, , 88545-000",
     "potencia": "GOB",
-    "diaSessao": "Uarta-feira",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5048195,-50.1249489&z=15"
   },
   {
     "id": "4933",
@@ -1710,22 +2344,54 @@
     "rito": "REAA",
     "cidade": "Garopaba",
     "estado": "SC",
-    "endereco": "Rua Lídio Pacheco, s/n, Areias da Palhocinha",
+    "endereco": "Rua Lídio Pacheco, s/n, , Areias da Palhocinha",
     "potencia": "GOB",
-    "diaSessao": "Terças-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "Não informado",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4509",
+    "nome": "SABEDORIA E FRATERNIDADE",
+    "numero": "4509",
+    "rito": "Adonhiramita",
+    "cidade": "Braço do Norte",
+    "estado": "SC",
+    "endereco": "Rua Antônio Dante Brognoli, 68, , Nossa Senhora de Fátima, , 88750-000",
+    "potencia": "GOB",
+    "diaSessao": "2º",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-28.2679534,-49.1708384&z=15"
   },
   {
     "id": "4736",
     "nome": "SAL DA TERRA",
     "numero": "4736",
-    "rito": "Rito Escocês Retificado",
+    "rito": "RER",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Machado de Assis, 210, Estreito",
+    "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "Quinta-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "Não informado",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4772",
+    "nome": "SANTO GRAAL",
+    "numero": "4772",
+    "rito": "Moderno",
+    "cidade": "Tubarão",
+    "estado": "SC",
+    "endereco": "Avenida Marcolino Martins Cabral, 5482, , PASSAGEM, , 88705-006",
+    "potencia": "GOB",
+    "diaSessao": "1",
+    "horario": "Não informado",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-28.4753502,-48.9945615&z=15"
   },
   {
     "id": "3961",
@@ -1734,22 +2400,68 @@
     "rito": "Adonhiramita",
     "cidade": "Seara",
     "estado": "SC",
-    "endereco": "Rodovia SC 155, Linha Bernardi",
+    "endereco": "Rodovia SC 155, , Linha Bernardi, , 89770-000",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.1098974,-52.5950279&z=15"
   },
   {
     "id": "4918",
     "nome": "SENTINELAS DA VERDADE",
     "numero": "4918",
-    "rito": "Rito Escocês Retificado",
+    "rito": "RER",
     "cidade": "Joinville",
     "estado": "SC",
-    "endereco": "Rua Marari, 47, Atiradores",
+    "endereco": "Rua Marari, 47, , Atiradores, , 89203-080",
     "potencia": "GOB",
-    "diaSessao": "Terças-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2°",
+    "horario": "Não informado",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4833",
+    "nome": "SILVIO ULIANO",
+    "numero": "4833",
+    "rito": "RER",
+    "cidade": "Blumenau",
+    "estado": "SC",
+    "endereco": "Rua Canasvieiras, 54, , Bairro Velha, , 89041-370",
+    "potencia": "GOB",
+    "diaSessao": "2",
+    "horario": "19:30",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4744",
+    "nome": "SOL DO ATLÂNTICO",
+    "numero": "4744",
+    "rito": "Adonhiramita",
+    "cidade": "Camboriú",
+    "estado": "SC",
+    "endereco": "Rua Santa Adelaide,, , São Francisco, , 88340-732",
+    "potencia": "GOB",
+    "diaSessao": "1°",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": ""
+  },
+  {
+    "id": "3061",
+    "nome": "SÃO JOÃO BATISTA",
+    "numero": "3061",
+    "rito": "Brasileiro",
+    "cidade": "São João Batista",
+    "estado": "SC",
+    "endereco": "Rua Padre Fidalgo, 45, , Centro, , 88240-000",
+    "potencia": "GOB",
+    "diaSessao": "Terça",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.2739954,-48.8513384&z=15"
   },
   {
     "id": "4881",
@@ -1758,10 +2470,12 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, Abraão",
+    "endereco": "Rua Bias Peixoto, , Abraão, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "Quintas-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2°",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.6073241,-48.5904839&z=15"
   },
   {
     "id": "3778",
@@ -1770,10 +2484,12 @@
     "rito": "Moderno",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Servidão Do Palmeiras esq. c/Servidão Honorato Manoel, Itacorubi",
+    "endereco": "Servidão Do Palmeiras esq. c/Servidão Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "2ª",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "10:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5878517,-48.4931166&z=15"
   },
   {
     "id": "2947",
@@ -1782,10 +2498,12 @@
     "rito": "REAA",
     "cidade": "Penha",
     "estado": "SC",
-    "endereco": "Rua Anibal de Lara Cardoso, 245, Centro",
+    "endereco": "Rua Anibal de Lara Cardoso, 245, , Centro, , 88385-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.7813903,-48.6432551&z=15"
   },
   {
     "id": "3129",
@@ -1794,10 +2512,12 @@
     "rito": "Adonhiramita",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Orlando Brasil, 02-A, Capoeiras",
+    "endereco": "Rua Orlando Brasil, 02-A, , Capoeiras, , 88070-420",
     "potencia": "GOB",
-    "diaSessao": "Ábado",
-    "frequencia": "Semanal"
+    "diaSessao": "Sábado",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.567503,-48.8135386&z=15"
   },
   {
     "id": "2085",
@@ -1806,10 +2526,12 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Presidente Gama Rosa,, Trindade",
+    "endereco": "Rua Presidente Gama Rosa,, , Trindade, , 88036-260",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5876028,-48.5235296&z=15"
   },
   {
     "id": "2764",
@@ -1818,10 +2540,12 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, 200, Itaguaçu",
+    "endereco": "Rua Bias Peixoto, 200, , Itaguaçu, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6073241,-48.5904839&z=15"
   },
   {
     "id": "3372",
@@ -1830,22 +2554,26 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto,, Itaguaçu",
+    "endereco": "Rua Bias Peixoto,, , Itaguaçu, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6073241,-48.5904839&z=15"
   },
   {
     "id": "3335",
     "nome": "UNIÃO DAS TERMAS",
     "numero": "3335",
     "rito": "Brasileiro",
-    "cidade": "Santo Amaro Da Imperatriz",
+    "cidade": "Santo Amaro da Imperatriz",
     "estado": "SC",
-    "endereco": "Rua Daniel Costa, 200, Santana",
+    "endereco": "Rua Daniel Costa, 200, , Santana, , 88141990",
     "potencia": "GOB",
-    "diaSessao": "Egunda",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6908194,-48.784492&z=15"
   },
   {
     "id": "3260",
@@ -1854,10 +2582,12 @@
     "rito": "Brasileiro",
     "cidade": "Criciúma",
     "estado": "SC",
-    "endereco": "Estrada Geral Linha Cabral, s/n, Linha Cabral",
+    "endereco": "Estrada Geral Linha Cabral, s/n, , Linha Cabral, , 88806099",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.6360213,-49.3161551&z=15"
   },
   {
     "id": "4876",
@@ -1866,10 +2596,12 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "RODOVIA SC 405, CAMPECHE",
+    "endereco": "RODOVIA SC 405, , CAMPECHE, , 88065-000",
     "potencia": "GOB",
-    "diaSessao": "Egunda-feira",
-    "frequencia": "Semanal"
+    "diaSessao": "Segunda",
+    "horario": "Não informado",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6833306,-48.5118229&z=15"
   },
   {
     "id": "3274",
@@ -1878,22 +2610,26 @@
     "rito": "Adonhiramita",
     "cidade": "Chapecó",
     "estado": "SC",
-    "endereco": "Rua Heitor Villa Lobos,, Esplanada",
+    "endereco": "Rua Heitor Villa Lobos,, , Esplanada, , 89812-620",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0999282,-52.5997055&z=15"
   },
   {
     "id": "4545",
     "nome": "UNIÃO E PROGRESSO",
     "numero": "4545",
-    "rito": "1º e 3º Terça Feira - 20h",
-    "cidade": "Tubar",
+    "rito": "REAA",
+    "cidade": "Tubarão",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Luiz Demo",
+    "endereco": "Rua Luiz Demo, , Passagem, , 88705-460",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "1º",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-28.4777531,-49.0452896&z=15"
   },
   {
     "id": "3316",
@@ -1902,46 +2638,68 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Desembargador Vitor Lima, 550, Carvoeira",
+    "endereco": "Desembargador Vitor Lima, 550, , Carvoeira, , 88040-401",
     "potencia": "GOB",
-    "diaSessao": "Exta",
-    "frequencia": "Semanal"
+    "diaSessao": "Sexta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.59833860826912,-48.52481037940975&z=15"
   },
   {
     "id": "2243",
     "nome": "UNIÃO E TRABALHO DO IGUAÇU",
     "numero": "2243",
-    "rito": "Terça Feira - 20h",
-    "cidade": "Porto Uni",
+    "rito": "Adonhiramita",
+    "cidade": "Porto União",
     "estado": "SC",
-    "endereco": "Rito Adonhiramita, Rua Expedicionário Edmundo Arrabar, 2915",
+    "endereco": "Rua Expedicionário Edmundo Arrabar, 2915, , Santa Rosa, , 89400-000",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.2625486,-51.0637171&z=15"
   },
   {
     "id": "0664",
-    "nome": "LUZ E TRABALHO",
+    "nome": "UNIÃO III, LUZ E TRABALHO",
     "numero": "0664",
-    "rito": "Quinta Feira - 20h",
-    "cidade": "Porto Uni",
+    "rito": "REAA",
+    "cidade": "Porto União",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Frei Rogério, 713",
+    "endereco": "Rua Frei Rogério, 713, , Centro, , 89400-000",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.8122588,-50.320204&z=15"
   },
   {
     "id": "4944",
     "nome": "UNIÃO JOSEFENSE",
     "numero": "4944",
-    "rito": "2º e 4º - Sextas-Feiras",
-    "cidade": "S",
+    "rito": "Brasileiro",
+    "cidade": "São José",
     "estado": "SC",
-    "endereco": "Rito Brasileiro, Rua Gabriel Marciano, 01",
+    "endereco": "Rua Gabriel Marciano, 01, , Centro, , 88103-216",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "2º",
+    "horario": "Não informado",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "2440",
+    "nome": "UNIÃO MÍSTICA",
+    "numero": "2440",
+    "rito": "REAA",
+    "cidade": "Videira",
+    "estado": "SC",
+    "endereco": "Rua Rio Claro, 133, , Sesi, , 89560388",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.0208038,-51.1543158&z=15"
   },
   {
     "id": "3460",
@@ -1950,10 +2708,12 @@
     "rito": "REAA",
     "cidade": "Navegantes",
     "estado": "SC",
-    "endereco": "Rua Frei Odorico Durieux,, Centro",
+    "endereco": "Rua Frei Odorico Durieux,, , Centro, , 88370-200",
     "potencia": "GOB",
-    "diaSessao": "Uinta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.8861347,-48.6592529&z=15"
   },
   {
     "id": "4602",
@@ -1962,22 +2722,54 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Estrada Dário Manoel Cardoso, 2222, Ingleses",
+    "endereco": "Estrada Dário Manoel Cardoso, 2222, , Ingleses, , 88058-400",
     "potencia": "GOB",
-    "diaSessao": "Quartas-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4236",
+    "nome": "UNIÃO PALHOCENSE",
+    "numero": "4236",
+    "rito": "Brasileiro",
+    "cidade": "Palhoça",
+    "estado": "SC",
+    "endereco": "Rua Luiz Silva,, , São Sebastião, , 88136-028",
+    "potencia": "GOB",
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.6326455,-48.6935755&z=15"
   },
   {
     "id": "4592",
     "nome": "VALE DO HERMON",
     "numero": "4592",
-    "rito": "Terça feira - 20h",
-    "cidade": "Ipor",
+    "rito": "Brasileiro",
+    "cidade": "Iporã do Oeste",
     "estado": "SC",
-    "endereco": "Rito Brasileiro, Rua Rudi Orst, s/n",
+    "endereco": "Rua Rudi Orst, s/n, , Centro, , 89899-000",
     "potencia": "GOB",
-    "diaSessao": "Ã",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": ""
+  },
+  {
+    "id": "2817",
+    "nome": "VALE DO TIJUCAS",
+    "numero": "2817",
+    "rito": "REAA",
+    "cidade": "Tijucas",
+    "estado": "SC",
+    "endereco": "Rua Inhambú, , Centro, , 88200-266",
+    "potencia": "GOB",
+    "diaSessao": "Segunda",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.2327533,-48.6249219&z=15"
   },
   {
     "id": "4896",
@@ -1986,10 +2778,12 @@
     "rito": "York",
     "cidade": "Brusque",
     "estado": "SC",
-    "endereco": "Rua Ayres Lourenço Penk, Guarani",
+    "endereco": "Rua Ayres Lourenço Penk, , Guarani, , 88350-590",
     "potencia": "GOB",
-    "diaSessao": "Quartas-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "1,",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": "https://www.google.com/maps?q=-27.1001097501304,-48.9356779327989&z=15"
   },
   {
     "id": "3646",
@@ -1998,10 +2792,12 @@
     "rito": "York",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bernadino Vaz, 177, Estreito",
+    "endereco": "Rua Bernadino Vaz, 177, , Estreito, , 88075-090",
     "potencia": "GOB",
     "diaSessao": "1°",
-    "frequencia": "1ª e 3ª semana"
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5893468,-48.5780215&z=15"
   },
   {
     "id": "3838",
@@ -2010,10 +2806,12 @@
     "rito": "Brasileiro",
     "cidade": "Blumenau",
     "estado": "SC",
-    "endereco": "Rua dos Pioneiros, 277, Água Verde",
+    "endereco": "Rua dos Pioneiros, 277, , Água Verde, , 89042-020",
     "potencia": "GOB",
-    "diaSessao": "Exta",
-    "frequencia": "Semanal"
+    "diaSessao": "Sexta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.9216238,-49.0568576&z=15"
   },
   {
     "id": "3426",
@@ -2022,70 +2820,96 @@
     "rito": "Brasileiro",
     "cidade": "Camboriú",
     "estado": "SC",
-    "endereco": "Avenida Santa Catarina, 1833, Centro",
+    "endereco": "Avenida Santa Catarina, 1833, , Centro, , 88348-006",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.005779,-48.6472342&z=15"
   },
   {
     "id": "4908",
     "nome": "VIGILANTES DA COLINA",
     "numero": "4908",
     "rito": "Schröder",
-    "cidade": "Orleans",
+    "cidade": "Braço do Norte",
     "estado": "SC",
-    "endereco": "Rua João Bianchini, s/n, Bela Vista",
+    "endereco": "Rua João Bianchini, s/n, , Bela Vista, , 88750-000",
     "potencia": "GOB",
-    "diaSessao": "Terças-feira",
-    "frequencia": "2ª e 4ª semana"
+    "diaSessao": "2°",
+    "horario": "20:00",
+    "frequencia": "2ª e 4ª semana",
+    "maps": ""
+  },
+  {
+    "id": "4844",
+    "nome": "VIGILANTES DA FRATERNIDADE",
+    "numero": "4844",
+    "rito": "REAA",
+    "cidade": "Brusque",
+    "estado": "SC",
+    "endereco": "Rua Ayres Lourenço Penk, nº 22, , Guarani, , 88350-590",
+    "potencia": "GOB",
+    "diaSessao": "Segundas",
+    "horario": "19:30",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.1001097501304,-48.9356779327989&z=15"
   },
   {
     "id": "3398",
     "nome": "VIGILANTES DA VERDADE",
     "numero": "3398",
-    "rito": "Sexta Feira - 20h",
-    "cidade": "Tubar",
+    "rito": "Schröder",
+    "cidade": "Tubarão",
     "estado": "SC",
-    "endereco": "Rito Schröder, Avenida Marcolino Martins Cabral, 5482",
+    "endereco": "Avenida Marcolino Martins Cabral, 5482, , Passagem, , 88705-006",
     "potencia": "GOB",
-    "diaSessao": "Ão",
-    "frequencia": "Semanal"
+    "diaSessao": "Sexta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.4752911,-48.9949879&z=15"
   },
   {
     "id": "3783",
     "nome": "VIGILANTES DO MAR",
     "numero": "3783",
     "rito": "Brasileiro",
-    "cidade": "Balneário Camboriú",
+    "cidade": "Itajaí",
     "estado": "SC",
-    "endereco": "Rua XV de Novembro,, Centro",
+    "endereco": "Rua XV de Novembro,, , Centro, , 88301-420",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.00606,-48.648639&z=15"
   },
   {
     "id": "4345",
     "nome": "VIRTUDE",
     "numero": "4345",
     "rito": "REAA",
-    "cidade": "Cocal Do Sul",
+    "cidade": "Morro da Fumaça",
     "estado": "SC",
-    "endereco": "Rodovia Libero Fortunato Bortolatto, s/n, Estação Cocal",
+    "endereco": "Rodovia Libero Fortunato Bortolatto, s/n, , Estação Cocal, , 88837-000",
     "potencia": "GOB",
-    "diaSessao": "Erça",
-    "frequencia": "Semanal"
+    "diaSessao": "Terça",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-28.6243643,-49.3193007&z=15"
   },
   {
     "id": "1998",
     "nome": "XV DE NOVEMBRO",
     "numero": "1998",
-    "rito": "Quinta Feira - 20h",
-    "cidade": "Ca",
+    "rito": "REAA",
+    "cidade": "Caçador",
     "estado": "SC",
-    "endereco": "Rito Escocês Antigo e Aceito, Rua Colômbia",
+    "endereco": "Rua Colômbia,, , Reunidas, , 89504539",
     "potencia": "GOB",
-    "diaSessao": "Çador",
-    "frequencia": "Semanal"
+    "diaSessao": "Quinta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-26.7706277,-51.0244414&z=15"
   },
   {
     "id": "2948",
@@ -2094,10 +2918,12 @@
     "rito": "Adonhiramita",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Servidão do Palmeiras esq. c/Servidão Honorato Manoel, Itacorubi",
+    "endereco": "Servidão do Palmeiras esq. c/Servidão Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "1ª",
-    "frequencia": "1ª e 3ª semana"
+    "diaSessao": "1",
+    "horario": "20:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-27.5883644,-48.4942584&z=15"
   },
   {
     "id": "4718",
@@ -2106,10 +2932,12 @@
     "rito": "Schröder",
     "cidade": "Blumenau",
     "estado": "SC",
-    "endereco": "Rua Londrina, 199, Velha",
+    "endereco": "Rua Londrina, 199, , Velha, , 89036-610",
     "potencia": "GOB",
     "diaSessao": "1°",
-    "frequencia": "1ª e 3ª semana"
+    "horario": "19:30:00",
+    "frequencia": "1ª e 3ª semana",
+    "maps": "https://www.google.com/maps?q=-26.9166755,-49.095839&z=15"
   },
   {
     "id": "4211",
@@ -2118,9 +2946,11 @@
     "rito": "Brasileiro",
     "cidade": "Florianópolis",
     "estado": "SC",
-    "endereco": "Rua Bias Peixoto, 200, Abraão",
+    "endereco": "Rua Bias Peixoto, 200, , Abraão, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "Uarta",
-    "frequencia": "Semanal"
+    "diaSessao": "Quarta",
+    "horario": "20:00",
+    "frequencia": "Semanal",
+    "maps": "https://www.google.com/maps?q=-27.5822872,-48.6008709&z=15"
   }
 ]
