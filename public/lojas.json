@@ -50,7 +50,7 @@
     "estado": "SC",
     "endereco": "Rua Buenos Aires, 183, , Ponta Aguda, , 89051-050",
     "potencia": "GOB",
-    "diaSessao": "1,",
+    "diaSessao": "Quinta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -64,7 +64,7 @@
     "estado": "SC",
     "endereco": "Rua Dona Francisca, 3801, , Saguaçu, , 89221-009",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Sábados",
     "horario": "17:30",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -78,7 +78,7 @@
     "estado": "SC",
     "endereco": "Rua José Siqueira,, , Ressacada, , 88307-311",
     "potencia": "GOB",
-    "diaSessao": "1°,2°",
+    "diaSessao": "Terça",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.0052824,-48.6480692&z=15"
@@ -92,7 +92,7 @@
     "estado": "SC",
     "endereco": "Rua Vidal Ramos, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5945299,-48.5519522&z=15"
@@ -106,7 +106,7 @@
     "estado": "SC",
     "endereco": "Rua 2480, 431, , Centro, , 88303-407",
     "potencia": "GOB",
-    "diaSessao": "Todas",
+    "diaSessao": "Quarta",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.0052824,-48.6480692&z=15"
@@ -120,7 +120,7 @@
     "estado": "SC",
     "endereco": "Rua Jorge Lacerda, s/n, , Centro, , 88780-000",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quinta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-28.2360082,-48.6677814&z=15"
@@ -162,7 +162,7 @@
     "estado": "SC",
     "endereco": "Rua Arvino de Oliveira,, , Vila Pedrini, , 89600-000",
     "potencia": "GOB",
-    "diaSessao": "Segundas",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.1727043,-51.5047582&z=15"
@@ -190,7 +190,7 @@
     "estado": "SC",
     "endereco": "Rua Antônio Veiga, 439, , Victor Konder, , 89012-500",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Terça",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -218,7 +218,7 @@
     "estado": "SC",
     "endereco": "RUA CELIO VEIGA, , JARDIM CIDADE DE FLORIANOPOLIS, , 88111-320",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5666689,-48.6242275&z=15"
@@ -246,7 +246,7 @@
     "estado": "SC",
     "endereco": "Rua Buenos Aires, 183, , Ponta Aguda, , 89051-050",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quarta",
     "horario": "Não informado",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-26.9166866,-49.096111&z=15"
@@ -260,7 +260,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, , Estreito, , 88075-000",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Quarta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5970094,-48.5473988&z=15"
@@ -274,7 +274,7 @@
     "estado": "SC",
     "endereco": "RODOVIA SC 405, , CAMPECHE, , 88065-000",
     "potencia": "GOB",
-    "diaSessao": "",
+    "diaSessao": "Verificar",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.6833306,-48.5118229&z=15"
@@ -288,7 +288,7 @@
     "estado": "SC",
     "endereco": "Rua João Bianchini, s/n, , Bela Vista, , 88750-000",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Terça",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -302,7 +302,7 @@
     "estado": "SC",
     "endereco": "Rua 294, 745, , Meia Praia, , 88220-000",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Sexta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -330,7 +330,7 @@
     "estado": "SC",
     "endereco": "Avenida dos Imigrantes, 1750, , BRASÍLIA, , 89280-970",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Segunda",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -372,7 +372,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quinta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5893468,-48.5780215&z=15"
@@ -400,7 +400,7 @@
     "estado": "SC",
     "endereco": "Rua XV de Novembro, 396, , Centro, , 88301-420",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quinta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-25.4305865,-49.2700923&z=15"
@@ -428,7 +428,7 @@
     "estado": "SC",
     "endereco": "Rua Bernadino Vaz,, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5895862,-48.5783378&z=15"
@@ -456,7 +456,7 @@
     "estado": "SC",
     "endereco": "Rua Paulo Alves do Nascimento, , Pioneiros, , 89182-000",
     "potencia": "GOB",
-    "diaSessao": "",
+    "diaSessao": "Verificar",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": ""
@@ -484,7 +484,7 @@
     "estado": "SC",
     "endereco": "Rua Gabriel Marciano,, , Centro, , 88103-215",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Terça",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.6208383,-48.6325189&z=15"
@@ -498,7 +498,7 @@
     "estado": "SC",
     "endereco": "Rua Marari, 47, , Atiradores, , 89203-080",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-26.3085834,-48.861126&z=15"
@@ -512,9 +512,9 @@
     "estado": "SC",
     "endereco": "Rua Benjamim Constant, 196, , Centro, , 89240-000",
     "potencia": "GOB",
-    "diaSessao": "3",
+    "diaSessao": "Sábado",
     "horario": "10:00",
-    "frequencia": "1ª e 3ª semana",
+    "frequencia": "3ª semana",
     "maps": "https://www.google.com/maps?q=-26.2462145,-48.6400596&z=15"
   },
   {
@@ -554,7 +554,7 @@
     "estado": "SC",
     "endereco": "Rua Bernadino Vaz, 177, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "3",
+    "diaSessao": "Verificar",
     "horario": "20:00",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.5931655,-48.5729331&z=15"
@@ -582,7 +582,7 @@
     "estado": "SC",
     "endereco": "Rua Gabriel Marciano,, , Centro, , 88103-216",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5612578,-48.6228307&z=15"
@@ -624,8 +624,8 @@
     "estado": "SC",
     "endereco": "Rua Heitor Villas Boas, , Esplanada, , 89812-620",
     "potencia": "GOB",
-    "diaSessao": "Sextas",
-    "horario": "Não informado",
+    "diaSessao": "Sexta",
+    "horario": "20:00",
     "frequencia": "Semanal",
     "maps": ""
   },
@@ -638,7 +638,7 @@
     "estado": "SC",
     "endereco": "Rua Vidal Ramos,, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5945298,-48.5520465&z=15"
@@ -694,9 +694,9 @@
     "estado": "SC",
     "endereco": "Rua Presidente Gama Rosa,, , Trindade, , 88036-260",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Sexta",
     "horario": "20:00",
-    "frequencia": "2ª e 4ª semana",
+    "frequencia": "1ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5883287,-48.4942133&z=15"
   },
   {
@@ -708,7 +708,7 @@
     "estado": "SC",
     "endereco": "Estrada Dário Manoel Cardoso, 2222, , Ingleses do Rio Vermelho, , 88058-400",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.4328044,-48.4651927&z=15"
@@ -722,7 +722,7 @@
     "estado": "SC",
     "endereco": "Desembargador Vitor Lima, , Carvoeira, , 88040-001",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.598340714713892,-48.524824578273616&z=15"
@@ -736,7 +736,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito",
     "potencia": "GOB",
-    "diaSessao": "Sessões",
+    "diaSessao": "Sábado",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5935293,-48.5729576&z=15"
@@ -750,7 +750,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Segunda",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5935293,-48.5729576&z=15"
@@ -834,7 +834,7 @@
     "estado": "SC",
     "endereco": "Avenida Marcolino Martins Cabral, 5482, , Passagem, , 88705-006",
     "potencia": "GOB",
-    "diaSessao": "2º",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-28.4750779,-48.9940986&z=15"
@@ -862,7 +862,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "1,",
+    "diaSessao": "Quinta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5895068,-48.5787252&z=15"
@@ -876,7 +876,7 @@
     "estado": "SC",
     "endereco": "Rua São Gonçalo,, , Dom Bosco, , 88310-170",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-26.9090991,-48.6649817&z=15"
@@ -904,7 +904,7 @@
     "estado": "SC",
     "endereco": "Rua Bias Peixoto, 200, , Abraão, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Terça",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.6073375,-48.5902871&z=15"
@@ -946,7 +946,7 @@
     "estado": "SC",
     "endereco": "Rua Monsenhor Gersino, 3154, , Itaum, , 89210-505",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Sábado",
     "horario": "09:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-26.3319521,-48.8297284&z=15"
@@ -960,7 +960,7 @@
     "estado": "SC",
     "endereco": "Rua Prefeito José Bauer, 1300, , Três Rios do Sul, , 89254-235",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Quinta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-26.4516955,-49.1198263&z=15"
@@ -974,7 +974,7 @@
     "estado": "SC",
     "endereco": "Rua Gabriel Marciano, 01, , Centro Histórico, , 88103-215",
     "potencia": "GOB",
-    "diaSessao": "1º",
+    "diaSessao": "Quarta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.884374,-48.5881884&z=15"
@@ -1044,7 +1044,7 @@
     "estado": "SC",
     "endereco": "Rua Bernardino Vaz, 177, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "2°",
+    "diaSessao": "Terça",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5967072,-48.5853629&z=15"
@@ -1100,7 +1100,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quarta",
     "horario": "Não informado",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -1128,7 +1128,7 @@
     "estado": "SC",
     "endereco": "Avenida Marcolino Martins Cabral, 5482, , Passagem, , 88705-006",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-28.4749648,-48.9940687&z=15"
@@ -1240,7 +1240,7 @@
     "estado": "SC",
     "endereco": "Rua Ayres Lourenço Penk, nº 22, , Guarani, , 88350-590",
     "potencia": "GOB",
-    "diaSessao": "",
+    "diaSessao": "Verificar",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": ""
@@ -1254,7 +1254,7 @@
     "estado": "SC",
     "endereco": "Rua Ari Kardec Bosco de Melo, 250, , Lagoa da Serra, , 88900-970",
     "potencia": "GOB",
-    "diaSessao": "2°",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-28.9340548,-49.4801248&z=15"
@@ -1268,7 +1268,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5832542,-48.604631&z=15"
@@ -1296,7 +1296,7 @@
     "estado": "SC",
     "endereco": "Servidão do Palmeiras esq. c/Servidão. Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "1º",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5896414,-48.5781965&z=15"
@@ -1310,7 +1310,7 @@
     "estado": "SC",
     "endereco": "Rua Pintor Eduardo Dias, 237, , Jardim Atlântico, , 88095-800",
     "potencia": "GOB",
-    "diaSessao": "2º",
+    "diaSessao": "Terça",
     "horario": "Não informado",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5761109,-48.6004411&z=15"
@@ -1338,7 +1338,7 @@
     "estado": "SC",
     "endereco": "Rua Quinta Avenida, 1243, , Municípios, , 88337-335",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Sábado",
     "horario": "10:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-26.9982091,-48.6438738&z=15"
@@ -1366,7 +1366,7 @@
     "estado": "SC",
     "endereco": "Rua Vidal Ramos, 310, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quinta/Sexta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -1380,7 +1380,7 @@
     "estado": "SC",
     "endereco": "Rua Bias Peixoto, , Itaguaçu, , 88066413",
     "potencia": "GOB",
-    "diaSessao": "",
+    "diaSessao": "Verificar",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.607362,-48.5902313&z=15"
@@ -1394,7 +1394,7 @@
     "estado": "SC",
     "endereco": "Rua São João Batista, 380, , Centro, , 89620-000",
     "potencia": "GOB",
-    "diaSessao": "Seg",
+    "diaSessao": "Segunda",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": ""
@@ -1408,7 +1408,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito, , 88117-030",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Sexta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5931851,-48.5732556&z=15"
@@ -1436,7 +1436,7 @@
     "estado": "SC",
     "endereco": "Rua Dona francisca, 3801, , Saguaçú, , 89221-009",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-26.2817022,-48.8513636&z=15"
@@ -1450,7 +1450,7 @@
     "estado": "SC",
     "endereco": "Servidão Do Palmeiras esq. c/Servidão Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "3",
+    "diaSessao": "Verificar",
     "horario": "20:00",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.5880476,-48.4929929&z=15"
@@ -1632,7 +1632,7 @@
     "estado": "SC",
     "endereco": "Rodovia Libero Fortunato Liberato, , Linha Cabral, , 88837959",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-28.6251987,-49.316975&z=15"
@@ -1674,7 +1674,7 @@
     "estado": "SC",
     "endereco": "Rua Benjamim Constant, 196, , Centro, , 89334533",
     "potencia": "GOB",
-    "diaSessao": "1º",
+    "diaSessao": "Verificar",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-26.2463288,-48.6402622&z=15"
@@ -1716,7 +1716,7 @@
     "estado": "SC",
     "endereco": "Rua Prefeito José Bauer, 1.300, , Três Rios do Sul, , 89254-100",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Terça",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-26.4564944,-49.1141243&z=15"
@@ -1758,7 +1758,7 @@
     "estado": "SC",
     "endereco": "Rua Luiz Silva,, , São Sebastião, , 88136-028",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Terça",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -1772,7 +1772,7 @@
     "estado": "SC",
     "endereco": "Rua Vidal Ramos, 310, , Centro, , 88010-320",
     "potencia": "GOB",
-    "diaSessao": "2°",
+    "diaSessao": "Verificar",
     "horario": "16:00",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.5946449,-48.5520598&z=15"
@@ -1786,7 +1786,7 @@
     "estado": "SC",
     "endereco": "RUA MARARI, , ATIRADORES, , 89203-080",
     "potencia": "GOB",
-    "diaSessao": "2°",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-26.3085834,-48.861126&z=15"
@@ -1800,7 +1800,7 @@
     "estado": "SC",
     "endereco": "Rua Bias Peixoto, 200, , Itaguaçu, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Qui",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5946449,-48.5520598&z=15"
@@ -1814,7 +1814,7 @@
     "estado": "SC",
     "endereco": "Avenida Paraná, 1581, , Garuva, , 89248-000",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Sexta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -1828,7 +1828,7 @@
     "estado": "SC",
     "endereco": "Rua 2480, , Centro, , 88336410",
     "potencia": "GOB",
-    "diaSessao": "1º",
+    "diaSessao": "Verificar",
     "horario": "09:00",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-28.1129967,-48.9213188&z=15"
@@ -1842,7 +1842,7 @@
     "estado": "SC",
     "endereco": "Rua 14 de Agosto, 311, , MARIA GORETE, , 89801-414",
     "potencia": "GOB",
-    "diaSessao": "Terças",
+    "diaSessao": "Terça",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": ""
@@ -1856,7 +1856,7 @@
     "estado": "SC",
     "endereco": "Rua Bernadino Vaz, 177, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Quinta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5896261,-48.5784337&z=15"
@@ -2024,7 +2024,7 @@
     "estado": "SC",
     "endereco": "Rua Bias Peixoto,, , Itaguaçu, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Terça",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.6071432,-48.5905097&z=15"
@@ -2052,7 +2052,7 @@
     "estado": "SC",
     "endereco": "Rua Carlos Chagas, , Centro, , 88745-000",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quintasfeiras",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2080,7 +2080,7 @@
     "estado": "SC",
     "endereco": "Margens da BR 101, 10, , 88798-000",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Segunda",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -2122,7 +2122,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "2º",
+    "diaSessao": "Verificar",
     "horario": "18:00",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2150,7 +2150,7 @@
     "estado": "SC",
     "endereco": "Rua Bias Peixoto, 200, , Estreito, , 88075-480",
     "potencia": "GOB",
-    "diaSessao": "2,",
+    "diaSessao": "Sexta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.6072926,-48.5904773&z=15"
@@ -2234,7 +2234,7 @@
     "estado": "SC",
     "endereco": "Estrada Geral da Varginha, , Rio Branco, , 88350-700",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Verificar",
     "horario": "09:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.1050027,-48.9324584&z=15"
@@ -2346,7 +2346,7 @@
     "estado": "SC",
     "endereco": "Rua Lídio Pacheco, s/n, , Areias da Palhocinha",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Terça",
     "horario": "Não informado",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2360,7 +2360,7 @@
     "estado": "SC",
     "endereco": "Rua Antônio Dante Brognoli, 68, , Nossa Senhora de Fátima, , 88750-000",
     "potencia": "GOB",
-    "diaSessao": "2º",
+    "diaSessao": "Verificar",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-28.2679534,-49.1708384&z=15"
@@ -2374,7 +2374,7 @@
     "estado": "SC",
     "endereco": "Rua Machado de Assis, 210, , Estreito, , 88075-050",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quinta",
     "horario": "Não informado",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2388,7 +2388,7 @@
     "estado": "SC",
     "endereco": "Avenida Marcolino Martins Cabral, 5482, , PASSAGEM, , 88705-006",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Sexta",
     "horario": "Não informado",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-28.4753502,-48.9945615&z=15"
@@ -2416,7 +2416,7 @@
     "estado": "SC",
     "endereco": "Rua Marari, 47, , Atiradores, , 89203-080",
     "potencia": "GOB",
-    "diaSessao": "2°",
+    "diaSessao": "Terça",
     "horario": "Não informado",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2430,7 +2430,7 @@
     "estado": "SC",
     "endereco": "Rua Canasvieiras, 54, , Bairro Velha, , 89041-370",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Verificar",
     "horario": "19:30",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -2444,7 +2444,7 @@
     "estado": "SC",
     "endereco": "Rua Santa Adelaide,, , São Francisco, , 88340-732",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": ""
@@ -2472,7 +2472,7 @@
     "estado": "SC",
     "endereco": "Rua Bias Peixoto, , Abraão, , 88085-480",
     "potencia": "GOB",
-    "diaSessao": "2°",
+    "diaSessao": "Quintasfeiras",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.6073241,-48.5904839&z=15"
@@ -2486,7 +2486,7 @@
     "estado": "SC",
     "endereco": "Servidão Do Palmeiras esq. c/Servidão Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Sábado",
     "horario": "10:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.5878517,-48.4931166&z=15"
@@ -2598,7 +2598,7 @@
     "estado": "SC",
     "endereco": "RODOVIA SC 405, , CAMPECHE, , 88065-000",
     "potencia": "GOB",
-    "diaSessao": "Segunda",
+    "diaSessao": "Segundafeira",
     "horario": "Não informado",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=-27.6833306,-48.5118229&z=15"
@@ -2626,7 +2626,7 @@
     "estado": "SC",
     "endereco": "Rua Luiz Demo, , Passagem, , 88705-460",
     "potencia": "GOB",
-    "diaSessao": "1º",
+    "diaSessao": "Verificar",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-28.4777531,-49.0452896&z=15"
@@ -2682,7 +2682,7 @@
     "estado": "SC",
     "endereco": "Rua Gabriel Marciano, 01, , Centro, , 88103-216",
     "potencia": "GOB",
-    "diaSessao": "2º",
+    "diaSessao": "Verificar",
     "horario": "Não informado",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2724,7 +2724,7 @@
     "estado": "SC",
     "endereco": "Estrada Dário Manoel Cardoso, 2222, , Ingleses, , 88058-400",
     "potencia": "GOB",
-    "diaSessao": "2",
+    "diaSessao": "Quarta",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2780,7 +2780,7 @@
     "estado": "SC",
     "endereco": "Rua Ayres Lourenço Penk, , Guarani, , 88350-590",
     "potencia": "GOB",
-    "diaSessao": "1,",
+    "diaSessao": "Verificar",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": "https://www.google.com/maps?q=-27.1001097501304,-48.9356779327989&z=15"
@@ -2794,7 +2794,7 @@
     "estado": "SC",
     "endereco": "Rua Bernadino Vaz, 177, , Estreito, , 88075-090",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Segunda",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5893468,-48.5780215&z=15"
@@ -2836,7 +2836,7 @@
     "estado": "SC",
     "endereco": "Rua João Bianchini, s/n, , Bela Vista, , 88750-000",
     "potencia": "GOB",
-    "diaSessao": "2°",
+    "diaSessao": "Terça",
     "horario": "20:00",
     "frequencia": "2ª e 4ª semana",
     "maps": ""
@@ -2850,7 +2850,7 @@
     "estado": "SC",
     "endereco": "Rua Ayres Lourenço Penk, nº 22, , Guarani, , 88350-590",
     "potencia": "GOB",
-    "diaSessao": "Segundas",
+    "diaSessao": "Segunda",
     "horario": "19:30",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.1001097501304,-48.9356779327989&z=15"
@@ -2920,7 +2920,7 @@
     "estado": "SC",
     "endereco": "Servidão do Palmeiras esq. c/Servidão Honorato Manoel, , Itacorubi, , 88034-380",
     "potencia": "GOB",
-    "diaSessao": "1",
+    "diaSessao": "Quinta",
     "horario": "20:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-27.5883644,-48.4942584&z=15"
@@ -2934,7 +2934,7 @@
     "estado": "SC",
     "endereco": "Rua Londrina, 199, , Velha, , 89036-610",
     "potencia": "GOB",
-    "diaSessao": "1°",
+    "diaSessao": "Quinta",
     "horario": "19:30:00",
     "frequencia": "1ª e 3ª semana",
     "maps": "https://www.google.com/maps?q=-26.9166755,-49.095839&z=15"
