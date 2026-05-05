@@ -7701,7 +7701,7 @@
   },
   {
     "id": "GLSC-1",
-    "nome": "",
+    "nome": "Acácia Itajaiense",
     "numero": "1",
     "rito": "REAA",
     "cidade": "Itajaí",
@@ -7715,7 +7715,7 @@
   },
   {
     "id": "GLSC-2",
-    "nome": "",
+    "nome": "Presidente Roosevelt",
     "numero": "2",
     "rito": "REAA",
     "cidade": "Criciúma",
@@ -7729,7 +7729,7 @@
   },
   {
     "id": "GLSC-3",
-    "nome": "",
+    "nome": "14 de Julho",
     "numero": "3",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -7743,7 +7743,7 @@
   },
   {
     "id": "GLSC-4",
-    "nome": "",
+    "nome": "Amizade ao Cruzeiro do Sul",
     "numero": "4",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -7757,7 +7757,7 @@
   },
   {
     "id": "GLSC-5",
-    "nome": "",
+    "nome": "Cruzeiro do Sul",
     "numero": "5",
     "rito": "REAA",
     "cidade": "Joaçaba",
@@ -7771,7 +7771,7 @@
   },
   {
     "id": "GLSC-6",
-    "nome": "",
+    "nome": "Fraternidade Blumenauense",
     "numero": "6",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -7785,7 +7785,7 @@
   },
   {
     "id": "GLSC-7",
-    "nome": "",
+    "nome": "Lauro Müller",
     "numero": "7",
     "rito": "REAA",
     "cidade": "São José",
@@ -7799,7 +7799,7 @@
   },
   {
     "id": "GLSC-8",
-    "nome": "",
+    "nome": "Mozart",
     "numero": "8",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -7813,7 +7813,7 @@
   },
   {
     "id": "GLSC-9",
-    "nome": "",
+    "nome": "Fraternidade Tubaronense",
     "numero": "9",
     "rito": "REAA",
     "cidade": "Tubarão",
@@ -7827,7 +7827,7 @@
   },
   {
     "id": "GLSC-10",
-    "nome": "",
+    "nome": "Fraternidade Lagunense",
     "numero": "10",
     "rito": "REAA",
     "cidade": "Laguna",
@@ -7841,7 +7841,7 @@
   },
   {
     "id": "GLSC-11",
-    "nome": "",
+    "nome": "Pedro Cunha",
     "numero": "11",
     "rito": "REAA",
     "cidade": "Araranguá",
@@ -7855,7 +7855,7 @@
   },
   {
     "id": "GLSC-12",
-    "nome": "",
+    "nome": "Luz Serrana",
     "numero": "12",
     "rito": "REAA",
     "cidade": "Lages",
@@ -7869,7 +7869,7 @@
   },
   {
     "id": "GLSC-13",
-    "nome": "",
+    "nome": "Obreiros de São João",
     "numero": "13",
     "rito": "REAA",
     "cidade": "São Bento do Sul",
@@ -7883,7 +7883,7 @@
   },
   {
     "id": "GLSC-14",
-    "nome": "",
+    "nome": "São João Batista",
     "numero": "14",
     "rito": "REAA",
     "cidade": "Orleans",
@@ -7897,7 +7897,7 @@
   },
   {
     "id": "GLSC-15",
-    "nome": "",
+    "nome": "Pitágoras",
     "numero": "15",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -7911,7 +7911,7 @@
   },
   {
     "id": "GLSC-16",
-    "nome": "",
+    "nome": "Padre Roma",
     "numero": "16",
     "rito": "REAA",
     "cidade": "São José",
@@ -7925,7 +7925,7 @@
   },
   {
     "id": "GLSC-17",
-    "nome": "",
+    "nome": "Sentinela do Oeste",
     "numero": "17",
     "rito": "REAA",
     "cidade": "Chapecó",
@@ -7939,7 +7939,7 @@
   },
   {
     "id": "GLSC-18",
-    "nome": "",
+    "nome": "Obreiros de Hiram",
     "numero": "18",
     "rito": "REAA",
     "cidade": "Xanxerê",
@@ -7953,7 +7953,7 @@
   },
   {
     "id": "GLSC-19",
-    "nome": "",
+    "nome": "Fraternidade Timboense",
     "numero": "19",
     "rito": "REAA",
     "cidade": "Timbó",
@@ -7967,7 +7967,7 @@
   },
   {
     "id": "GLSC-20",
-    "nome": "",
+    "nome": "Alferes Tiradentes",
     "numero": "20",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -7981,7 +7981,7 @@
   },
   {
     "id": "GLSC-21",
-    "nome": "",
+    "nome": "Duque de Caxias",
     "numero": "21",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -7995,7 +7995,7 @@
   },
   {
     "id": "GLSC-22",
-    "nome": "",
+    "nome": "Harmonia e Fraternidade",
     "numero": "22",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -8009,7 +8009,7 @@
   },
   {
     "id": "GLSC-23",
-    "nome": "",
+    "nome": "Obreiros de Jaraguá do Sul",
     "numero": "23",
     "rito": "REAA",
     "cidade": "Jaraguá do Sul",
@@ -8023,7 +8023,7 @@
   },
   {
     "id": "GLSC-24",
-    "nome": "",
+    "nome": "Manoel Gomes",
     "numero": "24",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8037,7 +8037,7 @@
   },
   {
     "id": "GLSC-25",
-    "nome": "",
+    "nome": "15 de Novembro",
     "numero": "25",
     "rito": "REAA",
     "cidade": "Imbituba",
@@ -8051,7 +8051,7 @@
   },
   {
     "id": "GLSC-26",
-    "nome": "",
+    "nome": "Ação e Fraternidade Gasparense",
     "numero": "26",
     "rito": "REAA",
     "cidade": "Gaspar",
@@ -8065,7 +8065,7 @@
   },
   {
     "id": "GLSC-27",
-    "nome": "",
+    "nome": "Inconfidência de Concórdia",
     "numero": "27",
     "rito": "REAA",
     "cidade": "Concórdia",
@@ -8079,7 +8079,7 @@
   },
   {
     "id": "GLSC-28",
-    "nome": "",
+    "nome": "Solidariedade",
     "numero": "28",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8093,7 +8093,7 @@
   },
   {
     "id": "GLSC-29",
-    "nome": "",
+    "nome": "Sentinela do Sul",
     "numero": "29",
     "rito": "REAA",
     "cidade": "Tubarão",
@@ -8107,7 +8107,7 @@
   },
   {
     "id": "GLSC-30",
-    "nome": "",
+    "nome": "Fraternidade Josefense",
     "numero": "30",
     "rito": "REAA",
     "cidade": "São José",
@@ -8121,7 +8121,7 @@
   },
   {
     "id": "GLSC-31",
-    "nome": "",
+    "nome": "Ary Batalha",
     "numero": "31",
     "rito": "REAA",
     "cidade": "São José",
@@ -8135,7 +8135,7 @@
   },
   {
     "id": "GLSC-32",
-    "nome": "",
+    "nome": "Xaver  Arp",
     "numero": "32",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -8149,7 +8149,7 @@
   },
   {
     "id": "GLSC-33",
-    "nome": "",
+    "nome": "Fraternidade Criciumense",
     "numero": "33",
     "rito": "REAA",
     "cidade": "Criciúma",
@@ -8163,7 +8163,7 @@
   },
   {
     "id": "GLSC-34",
-    "nome": "",
+    "nome": "Padre Roma II",
     "numero": "34",
     "rito": "REAA",
     "cidade": "São José",
@@ -8177,7 +8177,7 @@
   },
   {
     "id": "GLSC-35",
-    "nome": "",
+    "nome": "Acácia Negra",
     "numero": "35",
     "rito": "REAA",
     "cidade": "Mafra",
@@ -8191,7 +8191,7 @@
   },
   {
     "id": "GLSC-36",
-    "nome": "",
+    "nome": "União Indaialense",
     "numero": "36",
     "rito": "REAA",
     "cidade": "Indaial",
@@ -8205,7 +8205,7 @@
   },
   {
     "id": "GLSC-37",
-    "nome": "",
+    "nome": "Obreiros da Liberdade",
     "numero": "37",
     "rito": "REAA",
     "cidade": "Xaxim",
@@ -8219,7 +8219,7 @@
   },
   {
     "id": "GLSC-38",
-    "nome": "",
+    "nome": "29 de setembro",
     "numero": "38",
     "rito": "REAA",
     "cidade": "São Miguel do Oeste",
@@ -8233,7 +8233,7 @@
   },
   {
     "id": "GLSC-39",
-    "nome": "",
+    "nome": "Obreiros de Salomão",
     "numero": "39",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -8247,7 +8247,7 @@
   },
   {
     "id": "GLSC-40",
-    "nome": "",
+    "nome": "República Juliana",
     "numero": "40",
     "rito": "REAA",
     "cidade": "Laguna",
@@ -8261,7 +8261,7 @@
   },
   {
     "id": "GLSC-41",
-    "nome": "",
+    "nome": "Eduardo Teixeira",
     "numero": "41",
     "rito": "REAA",
     "cidade": "Camboriú",
@@ -8275,7 +8275,7 @@
   },
   {
     "id": "GLSC-42",
-    "nome": "",
+    "nome": "Harmonia",
     "numero": "42",
     "rito": "REAA",
     "cidade": "Itajaí",
@@ -8289,7 +8289,7 @@
   },
   {
     "id": "GLSC-43",
-    "nome": "",
+    "nome": "Universo",
     "numero": "43",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8303,7 +8303,7 @@
   },
   {
     "id": "GLSC-44",
-    "nome": "",
+    "nome": "Templários da Arte Real",
     "numero": "44",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -8317,7 +8317,7 @@
   },
   {
     "id": "GLSC-45",
-    "nome": "",
+    "nome": "Liberdade e Justiça",
     "numero": "45",
     "rito": "REAA",
     "cidade": "Abelardo Luz",
@@ -8331,7 +8331,7 @@
   },
   {
     "id": "GLSC-46",
-    "nome": "",
+    "nome": "Phoenix",
     "numero": "46",
     "rito": "REAA",
     "cidade": "Lages",
@@ -8345,7 +8345,7 @@
   },
   {
     "id": "GLSC-47",
-    "nome": "",
+    "nome": "Gênesis",
     "numero": "47",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8359,7 +8359,7 @@
   },
   {
     "id": "GLSC-48",
-    "nome": "",
+    "nome": "Tríplice Fraternidade",
     "numero": "48",
     "rito": "REAA",
     "cidade": "Dionísio Cerqueira",
@@ -8373,7 +8373,7 @@
   },
   {
     "id": "GLSC-49",
-    "nome": "",
+    "nome": "Jack Matl",
     "numero": "49",
     "rito": "REAA",
     "cidade": "Rio Negrinho",
@@ -8387,7 +8387,7 @@
   },
   {
     "id": "GLSC-50",
-    "nome": "",
+    "nome": "Acácia da Arte Real",
     "numero": "50",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8401,7 +8401,7 @@
   },
   {
     "id": "GLSC-51",
-    "nome": "",
+    "nome": "Arte Real Palhocense",
     "numero": "51",
     "rito": "REAA",
     "cidade": "Palhoça",
@@ -8415,7 +8415,7 @@
   },
   {
     "id": "GLSC-52",
-    "nome": "",
+    "nome": "Fraternidade Capinzalense",
     "numero": "52",
     "rito": "REAA",
     "cidade": "Capinzal",
@@ -8429,7 +8429,7 @@
   },
   {
     "id": "GLSC-53",
-    "nome": "",
+    "nome": "União e Verdade",
     "numero": "53",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8443,7 +8443,7 @@
   },
   {
     "id": "GLSC-54",
-    "nome": "",
+    "nome": "Sentinela do Vale",
     "numero": "54",
     "rito": "REAA",
     "cidade": "Braço do Norte",
@@ -8457,7 +8457,7 @@
   },
   {
     "id": "GLSC-55",
-    "nome": "",
+    "nome": "Liberdade Criciumense",
     "numero": "55",
     "rito": "REAA",
     "cidade": "Criciúma",
@@ -8471,7 +8471,7 @@
   },
   {
     "id": "GLSC-56",
-    "nome": "",
+    "nome": "Albert Mackey",
     "numero": "56",
     "rito": "REAA",
     "cidade": "Tubarão",
@@ -8485,7 +8485,7 @@
   },
   {
     "id": "GLSC-57",
-    "nome": "",
+    "nome": "Universo II",
     "numero": "57",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8499,7 +8499,7 @@
   },
   {
     "id": "GLSC-58",
-    "nome": "",
+    "nome": "Rei David",
     "numero": "58",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8513,7 +8513,7 @@
   },
   {
     "id": "GLSC-59",
-    "nome": "",
+    "nome": "Ottokar Dörffel",
     "numero": "59",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -8527,7 +8527,7 @@
   },
   {
     "id": "GLSC-60",
-    "nome": "",
+    "nome": "Acácia Pomerana",
     "numero": "60",
     "rito": "REAA",
     "cidade": "Pomerode",
@@ -8541,7 +8541,7 @@
   },
   {
     "id": "GLSC-61",
-    "nome": "",
+    "nome": "Harmonia Brusquense",
     "numero": "61",
     "rito": "REAA",
     "cidade": "Brusque",
@@ -8555,7 +8555,7 @@
   },
   {
     "id": "GLSC-62",
-    "nome": "",
+    "nome": "Leão de Judá",
     "numero": "62",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8569,7 +8569,7 @@
   },
   {
     "id": "GLSC-63",
-    "nome": "",
+    "nome": "Fraternidade Chapecoense",
     "numero": "63",
     "rito": "REAA",
     "cidade": "Chapecó",
@@ -8583,7 +8583,7 @@
   },
   {
     "id": "GLSC-64",
-    "nome": "",
+    "nome": "Cavaleiros da Luz",
     "numero": "64",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8597,7 +8597,7 @@
   },
   {
     "id": "GLSC-65",
-    "nome": "",
+    "nome": "Ordem e Progresso",
     "numero": "65",
     "rito": "REAA",
     "cidade": "Joaçaba",
@@ -8611,7 +8611,7 @@
   },
   {
     "id": "GLSC-66",
-    "nome": "",
+    "nome": "Igualdade Criciumense",
     "numero": "66",
     "rito": "REAA",
     "cidade": "Criciúma",
@@ -8625,7 +8625,7 @@
   },
   {
     "id": "GLSC-67",
-    "nome": "",
+    "nome": "Acácia Blumenauense",
     "numero": "67",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -8639,7 +8639,7 @@
   },
   {
     "id": "GLSC-68",
-    "nome": "",
+    "nome": "Fraternidade das Termas",
     "numero": "68",
     "rito": "REAA",
     "cidade": "Palmitos",
@@ -8653,7 +8653,7 @@
   },
   {
     "id": "GLSC-69",
-    "nome": "",
+    "nome": "União do Vale",
     "numero": "69",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -8667,7 +8667,7 @@
   },
   {
     "id": "GLSC-70",
-    "nome": "",
+    "nome": "Fraternidade e Justiça",
     "numero": "70",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -8681,7 +8681,7 @@
   },
   {
     "id": "GLSC-71",
-    "nome": "",
+    "nome": "Luz, Paz e Fraternidade",
     "numero": "71",
     "rito": "REAA",
     "cidade": "Indaial",
@@ -8695,7 +8695,7 @@
   },
   {
     "id": "GLSC-72",
-    "nome": "",
+    "nome": "Luz",
     "numero": "72",
     "rito": "REAA",
     "cidade": "Jaraguá do Sul",
@@ -8709,7 +8709,7 @@
   },
   {
     "id": "GLSC-73",
-    "nome": "",
+    "nome": "Solidariedade Içarense",
     "numero": "73",
     "rito": "REAA",
     "cidade": "Içara",
@@ -8723,7 +8723,7 @@
   },
   {
     "id": "GLSC-74",
-    "nome": "",
+    "nome": "Ambrósio Peters",
     "numero": "74",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8737,7 +8737,7 @@
   },
   {
     "id": "GLSC-75",
-    "nome": "",
+    "nome": "Voluntas",
     "numero": "75",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8751,7 +8751,7 @@
   },
   {
     "id": "GLSC-76",
-    "nome": "",
+    "nome": "Luz do Planalto",
     "numero": "76",
     "rito": "REAA",
     "cidade": "São Bento do Sul",
@@ -8765,7 +8765,7 @@
   },
   {
     "id": "GLSC-77",
-    "nome": "",
+    "nome": "Universo III",
     "numero": "77",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8779,7 +8779,7 @@
   },
   {
     "id": "GLSC-78",
-    "nome": "",
+    "nome": "Colunas da Fraternidade",
     "numero": "78",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -8793,7 +8793,7 @@
   },
   {
     "id": "GLSC-79",
-    "nome": "",
+    "nome": "Pedreiros da Liberdade",
     "numero": "79",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8807,7 +8807,7 @@
   },
   {
     "id": "GLSC-80",
-    "nome": "",
+    "nome": "Eduardo Teixeira II",
     "numero": "80",
     "rito": "REAA",
     "cidade": "Camboriú",
@@ -8821,7 +8821,7 @@
   },
   {
     "id": "GLSC-81",
-    "nome": "",
+    "nome": "Liberdade e Harmonia",
     "numero": "81",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8835,7 +8835,7 @@
   },
   {
     "id": "GLSC-83",
-    "nome": "",
+    "nome": "Arte Real Santamarense",
     "numero": "83",
     "rito": "REAA",
     "cidade": "Santo Amaro da Imperatriz",
@@ -8849,7 +8849,7 @@
   },
   {
     "id": "GLSC-84",
-    "nome": "",
+    "nome": "Elos da Fraternidade",
     "numero": "84",
     "rito": "REAA",
     "cidade": "Concórdia",
@@ -8863,7 +8863,7 @@
   },
   {
     "id": "GLSC-85",
-    "nome": "",
+    "nome": "Fraternidade Itajaiense",
     "numero": "85",
     "rito": "REAA",
     "cidade": "Itajaí",
@@ -8877,7 +8877,7 @@
   },
   {
     "id": "GLSC-86",
-    "nome": "",
+    "nome": "Fraternidade Lourenciana",
     "numero": "86",
     "rito": "REAA",
     "cidade": "São Lourenço do Oeste",
@@ -8891,7 +8891,7 @@
   },
   {
     "id": "GLSC-87",
-    "nome": "",
+    "nome": "João Cândido Moreira",
     "numero": "87",
     "rito": "REAA",
     "cidade": "São Francisco do Sul",
@@ -8905,7 +8905,7 @@
   },
   {
     "id": "GLSC-88",
-    "nome": "",
+    "nome": "Montes de Sião",
     "numero": "88",
     "rito": "REAA",
     "cidade": "Chapecó",
@@ -8919,7 +8919,7 @@
   },
   {
     "id": "GLSC-89",
-    "nome": "",
+    "nome": "Cinzel",
     "numero": "89",
     "rito": "REAA",
     "cidade": "Curitibanos",
@@ -8933,7 +8933,7 @@
   },
   {
     "id": "GLSC-90",
-    "nome": "",
+    "nome": "Amizade ao Cruzeiro do Sul II",
     "numero": "90",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -8947,7 +8947,7 @@
   },
   {
     "id": "GLSC-91",
-    "nome": "",
+    "nome": "Templários da Nova Era",
     "numero": "91",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8961,7 +8961,7 @@
   },
   {
     "id": "GLSC-92",
-    "nome": "",
+    "nome": "Caminhos da Verdade",
     "numero": "92",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -8975,7 +8975,7 @@
   },
   {
     "id": "GLSC-93",
-    "nome": "",
+    "nome": "Aldo Linhares Sobrinho",
     "numero": "93",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -8989,7 +8989,7 @@
   },
   {
     "id": "GLSC-94",
-    "nome": "",
+    "nome": "Anhatomirim",
     "numero": "94",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -9003,7 +9003,7 @@
   },
   {
     "id": "GLSC-95",
-    "nome": "",
+    "nome": "Acácia Riosulense",
     "numero": "95",
     "rito": "REAA",
     "cidade": "Rio do Sul",
@@ -9017,7 +9017,7 @@
   },
   {
     "id": "GLSC-96",
-    "nome": "",
+    "nome": "Obreiros de Maravilha",
     "numero": "96",
     "rito": "REAA",
     "cidade": "Maravilha",
@@ -9031,7 +9031,7 @@
   },
   {
     "id": "GLSC-97",
-    "nome": "",
+    "nome": "Acácia Palhocense",
     "numero": "97",
     "rito": "REAA",
     "cidade": "Palhoça",
@@ -9045,7 +9045,7 @@
   },
   {
     "id": "GLSC-98",
-    "nome": "",
+    "nome": "Delta do Universo",
     "numero": "98",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -9059,7 +9059,7 @@
   },
   {
     "id": "GLSC-99",
-    "nome": "",
+    "nome": "Caminho da Luz",
     "numero": "99",
     "rito": "REAA",
     "cidade": "Brusque",
@@ -9073,7 +9073,7 @@
   },
   {
     "id": "GLSC-100",
-    "nome": "",
+    "nome": "Acácia Itajaiense II",
     "numero": "100",
     "rito": "REAA",
     "cidade": "Itajaí",
@@ -9087,7 +9087,7 @@
   },
   {
     "id": "GLSC-101",
-    "nome": "",
+    "nome": "Elimar Baumgarten",
     "numero": "101",
     "rito": "REAA",
     "cidade": "Timbó",
@@ -9101,7 +9101,7 @@
   },
   {
     "id": "GLSC-102",
-    "nome": "",
+    "nome": "Fonte de Luz",
     "numero": "102",
     "rito": "REAA",
     "cidade": "Chapecó",
@@ -9115,7 +9115,7 @@
   },
   {
     "id": "GLSC-103",
-    "nome": "",
+    "nome": "Do Sol",
     "numero": "103",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -9129,7 +9129,7 @@
   },
   {
     "id": "GLSC-104",
-    "nome": "",
+    "nome": "Fraternidade Itapema",
     "numero": "104",
     "rito": "REAA",
     "cidade": "Itapema",
@@ -9143,7 +9143,7 @@
   },
   {
     "id": "GLSC-105",
-    "nome": "",
+    "nome": "Obreiros do Bonsucesso",
     "numero": "105",
     "rito": "REAA",
     "cidade": "Camboriú",
@@ -9157,7 +9157,7 @@
   },
   {
     "id": "GLSC-106",
-    "nome": "",
+    "nome": "Aliança, Verdade e Justiça",
     "numero": "106",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -9171,7 +9171,7 @@
   },
   {
     "id": "GLSC-107",
-    "nome": "",
+    "nome": "Sol do Oriente",
     "numero": "107",
     "rito": "REAA",
     "cidade": "Içara",
@@ -9185,7 +9185,7 @@
   },
   {
     "id": "GLSC-108",
-    "nome": "",
+    "nome": "Amadeus Mozart",
     "numero": "108",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -9199,7 +9199,7 @@
   },
   {
     "id": "GLSC-109",
-    "nome": "",
+    "nome": "Fraternidade de Bombinhas",
     "numero": "109",
     "rito": "REAA",
     "cidade": "Bombinhas",
@@ -9213,7 +9213,7 @@
   },
   {
     "id": "GLSC-110",
-    "nome": "",
+    "nome": "São Miguel da Terra Firme",
     "numero": "110",
     "rito": "REAA",
     "cidade": "São José",
@@ -9227,7 +9227,7 @@
   },
   {
     "id": "GLSC-111",
-    "nome": "",
+    "nome": "Giuseppe Garibaldi",
     "numero": "111",
     "rito": "REAA",
     "cidade": "Blumenau",
@@ -9241,7 +9241,7 @@
   },
   {
     "id": "GLSC-112",
-    "nome": "",
+    "nome": "Obreiros da Fraternidade",
     "numero": "112",
     "rito": "REAA",
     "cidade": "Jaraguá do Sul",
@@ -9255,7 +9255,7 @@
   },
   {
     "id": "GLSC-113",
-    "nome": "",
+    "nome": "Wolfgang Goethe",
     "numero": "113",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -9269,7 +9269,7 @@
   },
   {
     "id": "GLSC-114",
-    "nome": "",
+    "nome": "Luz e Solidariedade",
     "numero": "114",
     "rito": "REAA",
     "cidade": "Concórdia",
@@ -9283,7 +9283,7 @@
   },
   {
     "id": "GLSC-115",
-    "nome": "",
+    "nome": "Desbravador",
     "numero": "115",
     "rito": "REAA",
     "cidade": "Chapecó",
@@ -9297,7 +9297,7 @@
   },
   {
     "id": "GLSC-116",
-    "nome": "",
+    "nome": "Luz do Universo",
     "numero": "116",
     "rito": "REAA",
     "cidade": "Gaspar",
@@ -9311,7 +9311,7 @@
   },
   {
     "id": "GLSC-117",
-    "nome": "",
+    "nome": "Caritas",
     "numero": "117",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -9325,7 +9325,7 @@
   },
   {
     "id": "GLSC-118",
-    "nome": "",
+    "nome": "Cruz de Lorena",
     "numero": "118",
     "rito": "REAA",
     "cidade": "Itaiópolis",
@@ -9339,7 +9339,7 @@
   },
   {
     "id": "GLSC-119",
-    "nome": "",
+    "nome": "Ilha do Desterro",
     "numero": "119",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -9353,7 +9353,7 @@
   },
   {
     "id": "GLSC-120",
-    "nome": "",
+    "nome": "São Mateus",
     "numero": "120",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -9367,7 +9367,7 @@
   },
   {
     "id": "GLSC-121",
-    "nome": "",
+    "nome": "Templários da Luz",
     "numero": "121",
     "rito": "REAA",
     "cidade": "Canoinhas",
@@ -9381,7 +9381,7 @@
   },
   {
     "id": "GLSC-122",
-    "nome": "",
+    "nome": "Acácia dos Pinhais",
     "numero": "122",
     "rito": "REAA",
     "cidade": "Pinhalzinho",
@@ -9395,7 +9395,7 @@
   },
   {
     "id": "GLSC-123",
-    "nome": "",
+    "nome": "Luz e Verdade",
     "numero": "123",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -9409,7 +9409,7 @@
   },
   {
     "id": "GLSC-124",
-    "nome": "",
+    "nome": "Porto Feliz",
     "numero": "124",
     "rito": "REAA",
     "cidade": "Mondaí",
@@ -9423,7 +9423,7 @@
   },
   {
     "id": "GLSC-125",
-    "nome": "",
+    "nome": "Filhos da Liberdade",
     "numero": "125",
     "rito": "REAA",
     "cidade": "Fraiburgo",
@@ -9437,7 +9437,7 @@
   },
   {
     "id": "GLSC-126",
-    "nome": "",
+    "nome": "Obreiros do Mosaico",
     "numero": "126",
     "rito": "REAA",
     "cidade": "Içara",
@@ -9451,7 +9451,7 @@
   },
   {
     "id": "GLSC-127",
-    "nome": "",
+    "nome": "Evilásio Ramos Schmitz",
     "numero": "127",
     "rito": "REAA",
     "cidade": "São José",
@@ -9465,7 +9465,7 @@
   },
   {
     "id": "GLSC-128",
-    "nome": "",
+    "nome": "Nove de Março",
     "numero": "128",
     "rito": "REAA",
     "cidade": "Joinville",
@@ -9479,7 +9479,7 @@
   },
   {
     "id": "GLSC-129",
-    "nome": "",
+    "nome": "Giovanni di Bernardone",
     "numero": "129",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -9493,7 +9493,7 @@
   },
   {
     "id": "GLSC-130",
-    "nome": "",
+    "nome": "Alvorada",
     "numero": "130",
     "rito": "REAA",
     "cidade": "Florianópolis",
@@ -9507,7 +9507,7 @@
   },
   {
     "id": "GLSC-131",
-    "nome": "",
+    "nome": "Senda da Luz",
     "numero": "131",
     "rito": "REAA",
     "cidade": "Chapecó",
@@ -9521,7 +9521,7 @@
   },
   {
     "id": "GLSC-132",
-    "nome": "",
+    "nome": "Conhecer-se e Aperfeiçoar-se",
     "numero": "132",
     "rito": "REAA",
     "cidade": "Tubarão",
@@ -9535,7 +9535,7 @@
   },
   {
     "id": "GLSC-133",
-    "nome": "",
+    "nome": "Salmo",
     "numero": "133",
     "rito": "REAA",
     "cidade": "Criciúma",
@@ -9549,49 +9549,49 @@
   },
   {
     "id": "GLSC-134",
-    "nome": "",
+    "nome": "Jardim das Araucárias",
     "numero": "134",
     "rito": "REAA",
     "cidade": "Bom Jardim da Serra",
     "estado": "SC",
     "endereco": "Rod. SC-390 389, Centro SC 390, CEP 88640-000.",
     "potencia": "GLSC",
-    "diaSessao": "Segundas-feiras",
+    "diaSessao": "Segundass",
     "horario": "20:00h",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=Rod.%20SC-390,389,Centro,Bom%20Jardim%20da%20SerraSC&z=15"
   },
   {
     "id": "GLSC-135",
-    "nome": "",
+    "nome": "Alvorecer do Campeche",
     "numero": "135",
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
     "endereco": "Rua General Bittencourt 261, Centro esquina com Rua Anit, CEP 88020-100.",
     "potencia": "GLSC",
-    "diaSessao": "Segunda-feira",
+    "diaSessao": "Segunda",
     "horario": "20:00h",
     "frequencia": "Quinzenal Par",
     "maps": "https://www.google.com/maps?q=Rua%20General%20Bittencourt%20,261,Centro,Florian%C3%B3polisSC&z=15"
   },
   {
     "id": "GLSC-136",
-    "nome": "",
+    "nome": "Silvio Thadeu de Menezes",
     "numero": "136",
     "rito": "REAA",
     "cidade": "Palhoça",
     "estado": "SC",
     "endereco": "Rua das Acácias Mimosas 177, Loteamento Madri , CEP 88136-301.",
     "potencia": "GLSC",
-    "diaSessao": "Segunda-feira",
+    "diaSessao": "Segunda",
     "horario": "20:00h",
     "frequencia": "Quinzenal Par",
     "maps": "https://www.google.com/maps?q=Rua%20das%20Ac%C3%A1cias%20Mimosas,177,Loteamento%20Madri,Palho%C3%A7aSC&z=15"
   },
   {
     "id": "GLSC-137",
-    "nome": "",
+    "nome": "Sentinelas da Ordem",
     "numero": "137",
     "rito": "REAA",
     "cidade": "São José",
@@ -9605,21 +9605,21 @@
   },
   {
     "id": "GLSC-138",
-    "nome": "",
+    "nome": "Fraternidade Florianopolitana",
     "numero": "138",
     "rito": "REAA",
     "cidade": "Florianópolis",
     "estado": "SC",
     "endereco": "Travessa Olindina Alves Pereira 38, Centro casa, CEP 88020-095.",
     "potencia": "GLSC",
-    "diaSessao": "Quarta-feira",
+    "diaSessao": "Quarta",
     "horario": "20:00h",
     "frequencia": "Quinzenal par",
     "maps": "https://www.google.com/maps?q=Travessa%20Olindina%20Alves%20Pereira,38,Centro,Florian%C3%B3polisSC&z=15"
   },
   {
     "id": "GLSC-139",
-    "nome": "",
+    "nome": "Obreiros de Itacolomi",
     "numero": "139",
     "rito": "REAA",
     "cidade": "Penha",
@@ -9633,7 +9633,7 @@
   },
   {
     "id": "GLSC-140",
-    "nome": "",
+    "nome": "Luz e Liberdade",
     "numero": "140",
     "rito": "REAA",
     "cidade": "Chapecó",
@@ -9647,35 +9647,35 @@
   },
   {
     "id": "GLSC-141",
-    "nome": "",
+    "nome": "Estrela da Manhã",
     "numero": "141",
     "rito": "REAA",
     "cidade": "Chapecó",
     "estado": "SC",
     "endereco": "Rua 14 de Agosto 575, Santa Maria Casa, CEP 89801-412.",
     "potencia": "GLSC",
-    "diaSessao": "Sexta-feira",
+    "diaSessao": "Sexta",
     "horario": "19h30",
     "frequencia": "Quinzenal Par",
     "maps": "https://www.google.com/maps?q=Rua%2014%20de%20Agosto%20,575,Santa%20Maria,Chapec%C3%B3SC&z=15"
   },
   {
     "id": "GLSC-142",
-    "nome": "",
+    "nome": "Mestres Ascensos",
     "numero": "142",
     "rito": "REAA",
     "cidade": "Joinville",
     "estado": "SC",
     "endereco": "Rua Marari 47, Atiradores casa, CEP 89203-080.",
     "potencia": "GLSC",
-    "diaSessao": "Quartas-feiras às 15h -",
+    "diaSessao": "Quartass às 15h -",
     "horario": "20:00",
     "frequencia": "Quinzenal Par",
     "maps": "https://www.google.com/maps?q=Rua%20Marari,47,Atiradores,JoinvilleSC&z=15"
   },
   {
     "id": "GLSC-143",
-    "nome": "",
+    "nome": "Solidariedade, Renovação e Luz",
     "numero": "143",
     "rito": "REAA",
     "cidade": "Campos Novos",
@@ -9689,7 +9689,7 @@
   },
   {
     "id": "GLSC-144",
-    "nome": "",
+    "nome": "Líbertas",
     "numero": "144",
     "rito": "REAA",
     "cidade": "Caçador",
@@ -9703,14 +9703,14 @@
   },
   {
     "id": "GLSC-145",
-    "nome": "",
+    "nome": "Construtores da Ordem",
     "numero": "145",
     "rito": "REAA",
     "cidade": "Blumenau",
     "estado": "SC",
     "endereco": "Rua Buenos Aires 183, Ponta Aguda , CEP 89051-050.",
     "potencia": "GLSC",
-    "diaSessao": "Quarta-feira 19h30",
+    "diaSessao": "Quarta 19h30",
     "horario": "20:00",
     "frequencia": "Semanal",
     "maps": "https://www.google.com/maps?q=Rua%20Buenos%20Aires,183,Ponta%20Aguda,BlumenauSC&z=15"
