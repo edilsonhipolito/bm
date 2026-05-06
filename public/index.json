@@ -1,7 +1,10 @@
 {
   "bases": [
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lojas_sc.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_gb_rs.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gorgs.enc"
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gob.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gop.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gb.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gorgs.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gl.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gob.enc"
   ]
 }
