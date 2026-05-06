@@ -2,6 +2,6 @@
   "bases": [
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lojas_sc.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_gb_rs.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lojas_gorgs.enc"
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gorgs.enc"
   ]
 }
