@@ -1,18 +1,19 @@
 {
   "bases": [
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gob.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gop.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_glp.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gb.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gorgs.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_glrs.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gl.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gob.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rj_glrj.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rj_gorj.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rj_gobrj.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_glems.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_gob-ms.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_goms.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_gobms.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_glms.enc"
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_glp.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gob-pr.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gop.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rj_glmerj.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rj_gob-rj.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rj_gomerj.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_glmers.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gob-rs.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gorgs.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gl.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gob-sc.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gosc.enc"
   ]
 }
