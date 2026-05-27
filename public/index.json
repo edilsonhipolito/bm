@@ -1,5 +1,6 @@
 {
   "bases": [
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_es_glmees.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_es_gob-es.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_mg_glmmg.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_mg_gob-mg.enc",
