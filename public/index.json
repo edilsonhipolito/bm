@@ -1,5 +1,6 @@
 {
   "bases": [
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_al_glomeal.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_es_glmees.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_es_gob-es.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_mg_glmmg.enc",
@@ -8,6 +9,8 @@
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_glems.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_gob-ms.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ms_goms.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pb_glmpb.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pe_glmpe.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_glp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gob-pr.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pr_gop.enc",
@@ -20,6 +23,7 @@
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_glSC.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gob-sc.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gosc.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_se_glmese.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_glesp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gob-sp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gop-sp.enc",
