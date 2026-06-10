@@ -48,6 +48,8 @@
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rn_gob-rn.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rn_gorn.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ro_glomaron.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ro_gob-ro.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_ro_gor.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rr_glomerr.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_glmers.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gob-rs.enc",
@@ -59,6 +61,8 @@
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_glesp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gob-sp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gop-sp.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gosp.enc"
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gosp.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_to_glmet.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_to_gob-to.enc"
   ]
 }
