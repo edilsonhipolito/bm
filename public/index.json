@@ -34,7 +34,6 @@
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pa_glepa.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pb_glmpb.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pb_gob-pb.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pb_gob_pb.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pe_glmpe.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pe_gob-pe.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_pi_gob-pi.enc",
@@ -54,14 +53,13 @@
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_glmers.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gob-rs.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_rs_gorgs.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_glSC.enc",
+    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_glsc.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gob-sc.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sc_gosc.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_se_glmese.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_glesp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gob-sp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gop-sp.enc",
-    "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_sp_gosp.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_to_glmet.enc",
     "https://raw.githubusercontent.com/edilsonhipolito/bm/refs/heads/main/public/lj_to_gob-to.enc"
   ]
